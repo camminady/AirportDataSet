@@ -1,20 +1,22 @@
 #AirportDataSet
 Thomas Camminady, 2016/12/21
 camminady@mathcces.rwth.aachen.de
+
+
+# Content 
 This README explains the content of 
 FlightData.mat. FlightData.mat contains six
 different variables. It is a summary of 
 "On-Flight Market Passengers Enplaned"
 arriving or leaving the US in the year 2010.
-
 Note, that the data is arranged in such a way,
 that the entries in Names are sorted 
 according to the number of passengers 
 leaving an Airport, meaning that sum(Traffic) 
 is decreasing.
 
+
 ##Names
-===========================
 Names is a cell array of three letter airport 
 identifiers, e.g. 'ATL' for Hartsfield-
 Jackson Atlanta International Airport.
@@ -54,7 +56,7 @@ Names. The information provided are:
 "Altitude", "Timezone", "DST".
 
 
-##Sources:
+#Sources:
 For flight data:
 https://toreopsahl.com/datasets/#usairports
 http://www.transtats.bts.gov
