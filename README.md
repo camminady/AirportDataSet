@@ -61,6 +61,6 @@ For flight data:
 https://toreopsahl.com/datasets/#usairports
 http://www.transtats.bts.gov
 
-For Airport data:
+For airport data:
     http://openflights.org/data.html
   
