@@ -23,7 +23,7 @@ title('Distance');
 
 
 
-N = 50;
+N = 10;
 G = digraph( normalize(Traffic(1:N,1:N)));
 
 pr = centrality(G,'pagerank','FollowProbability',0.85);

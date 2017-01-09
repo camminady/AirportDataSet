@@ -2,6 +2,7 @@ function [ ] = analyze( )
 
 load FlightData.mat;
 
+close all
 
 N = length(Latitude);
 M = 200;
