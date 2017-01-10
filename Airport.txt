@@ -1,0 +1,1466 @@
+Name,City,Country,IATAFAA,ICAO,Latitude,Longitude,Altitude,Timezone,DST
+Hartsfield Jackson Atlanta Intl,"Atlanta",United States,ATL,KATL,33.636719,-84.428067,1026,-5,A
+Chicago Ohare Intl,"Chicago",United States,ORD,KORD,41.978603,-87.904842,668,-6,A
+Los Angeles Intl,"Los Angeles",United States,LAX,KLAX,33.942536,-118.408075,126,-8,A
+Dallas Fort Worth Intl,"Dallas-fort Worth",United States,DFW,KDFW,32.896828,-97.037997,607,-6,A
+Denver Intl,"Denver",United States,DEN,KDEN,39.861656,-104.673178,5431,-7,A
+John F Kennedy Intl,"New York",United States,JFK,KJFK,40.639751,-73.778925,13,-5,A
+George Bush Intcntl Houston,"Houston",United States,IAH,KIAH,29.984433,-95.341442,97,-6,A
+San Francisco Intl,"San Francisco",United States,SFO,KSFO,37.618972,-122.374889,13,-8,A
+Mc Carran Intl,"Las Vegas",United States,LAS,KLAS,36.080056,-115.15225,2141,-8,A
+Phoenix Sky Harbor Intl,"Phoenix",United States,PHX,KPHX,33.434278,-112.011583,1135,-7,N
+Charlotte Douglas Intl,"Charlotte",United States,CLT,KCLT,35.214,-80.943139,748,-5,A
+Orlando Intl,"Orlando",United States,MCO,KMCO,28.429394,-81.308994,96,-5,A
+Miami Intl,"Miami",United States,MIA,KMIA,25.79325,-80.290556,8,-5,A
+Newark Liberty Intl,"Newark",United States,EWR,KEWR,40.6925,-74.168667,18,-5,A
+Detroit Metro Wayne Co,"Detroit",United States,DTW,KDTW,42.212444,-83.353389,645,-5,A
+Minneapolis St Paul Intl,"Minneapolis",United States,MSP,KMSP,44.881956,-93.221767,841,-6,A
+Seattle Tacoma Intl,"Seattle",United States,SEA,KSEA,47.449,-122.309306,433,-8,A
+Philadelphia Intl,"Philadelphia",United States,PHL,KPHL,39.871944,-75.241139,36,-5,A
+General Edward Lawrence Logan Intl,"Boston",United States,BOS,KBOS,42.364347,-71.005181,19,-5,A
+La Guardia,"New York",United States,LGA,KLGA,40.777245,-73.872608,22,-5,A
+Washington Dulles Intl,"Washington",United States,IAD,KIAD,38.944533,-77.455811,313,-5,A
+Fort Lauderdale Hollywood Intl,"Fort Lauderdale",United States,FLL,KFLL,26.072583,-80.15275,9,-5,A
+Baltimore Washington Intl,"Baltimore",United States,BWI,KBWI,39.175361,-76.668333,146,-5,A
+Salt Lake City Intl,"Salt Lake City",United States,SLC,KSLC,40.788389,-111.977772,4227,-7,A
+Ronald Reagan Washington Natl,"Washington",United States,DCA,KDCA,38.852083,-77.037722,15,-5,A
+Honolulu Intl,"Honolulu",United States,HNL,PHNL,21.318681,-157.922428,13,-10,N
+Chicago Midway Intl,"Chicago",United States,MDW,KMDW,41.785972,-87.752417,620,-6,A
+San Diego Intl,"San Diego",United States,SAN,KSAN,32.733556,-117.189667,17,-8,A
+Tampa Intl,"Tampa",United States,TPA,KTPA,27.975472,-82.53325,26,-5,A
+Portland Intl,"Portland",United States,PDX,KPDX,45.588722,-122.5975,30,-8,A
+Heathrow,"London",United Kingdom,LHR,EGLL,51.4775,-0.461389,83,0,E
+Lambert St Louis Intl,"St. Louis",United States,STL,KSTL,38.748697,-90.370028,618,-6,A
+Kansas City Intl,"Kansas City",United States,MCI,KMCI,39.297606,-94.713905,1026,-6,A
+Memphis Intl,"Memphis",United States,MEM,KMEM,35.042417,-89.976667,341,-6,A
+General Mitchell Intl,"Milwaukee",United States,MKE,KMKE,42.947222,-87.896583,723,-6,A
+Metropolitan Oakland Intl,"Oakland",United States,OAK,KOAK,37.721278,-122.220722,9,-8,A
+Cleveland Hopkins Intl,"Cleveland",United States,CLE,KCLE,41.411689,-81.849794,791,-5,A
+Raleigh Durham Intl,"Raleigh-durham",United States,RDU,KRDU,35.877639,-78.787472,435,-5,A
+Nashville Intl,"Nashville",United States,BNA,KBNA,36.124472,-86.678194,599,-6,A
+Sacramento Intl,"Sacramento",United States,SMF,KSMF,38.695417,-121.590778,27,-8,A
+William P Hobby,"Houston",United States,HOU,KHOU,29.645419,-95.278889,46,-6,A
+John Wayne Arpt Orange Co,"Santa Ana",United States,SNA,KSNA,33.675667,-117.868222,56,-8,A
+Luis Munoz Marin Intl,"San Juan",Puerto Rico,SJU,TJSJ,18.439417,-66.001833,9,-4,U
+Lester B Pearson Intl,"Toronto",Canada,YYZ,CYYZ,43.677223,-79.630556,569,-5,A
+Austin Bergstrom Intl,"Austin",United States,AUS,KAUS,30.194528,-97.669889,542,-6,A
+Louis Armstrong New Orleans Intl,"New Orleans",United States,MSY,KMSY,29.993389,-90.258028,4,-6,A
+Narita Intl,"Tokyo",Japan,NRT,RJAA,35.764722,140.386389,141,9,U
+Norman Y Mineta San Jose Intl,"San Jose",United States,SJC,KSJC,37.3626,-121.929022,62,-8,A
+Pittsburgh Intl,"Pittsburgh (pennsylva)",United States,PIT,KPIT,40.491467,-80.232872,1204,-5,A
+San Antonio Intl,"San Antonio",United States,SAT,KSAT,29.533694,-98.469778,809,-6,A
+Cincinnati Northern Kentucky Intl,"Cincinnati",United States,CVG,KCVG,39.048836,-84.667822,896,-5,A
+Dallas Love Fld,"Dallas",United States,DAL,KDAL,32.847111,-96.851778,487,-6,A
+Indianapolis Intl,"Indianapolis",United States,IND,KIND,39.717331,-86.294383,797,-5,A
+Southwest Florida Intl,"Fort Myers",United States,RSW,KRSW,26.536167,-81.755167,30,-5,A
+Port Columbus Intl,"Columbus",United States,CMH,KCMH,39.997972,-82.891889,815,-5,A
+Frankfurt Main,"Frankfurt",Germany,FRA,EDDF,50.026421,8.543125,364,1,E
+Palm Beach Intl,"West Palm Beach",United States,PBI,KPBI,26.683161,-80.095589,19,-5,A
+Charles De Gaulle,"Paris",France,CDG,LFPG,49.012779,2.55,392,1,E
+Albuquerque International Sunport,"Albuquerque",United States,ABQ,KABQ,35.0402222,-106.6091944,5355,-7,A
+Cancun Intl,"Cancun",Mexico,CUN,MMUN,21.036528,-86.877083,20,-6,S
+Jacksonville Intl,"Jacksonville",United States,JAX,KJAX,30.494056,-81.687861,30,-5,A
+Bradley Intl,"Windsor Locks",United States,BDL,KBDL,41.938889,-72.683222,173,-5,A
+Kahului,"Kahului",United States,OGG,PHOG,20.89865,-156.430458,54,-10,N
+Buffalo Niagara Intl,"Buffalo",United States,BUF,KBUF,42.940525,-78.732167,724,-5,A
+Ontario Intl,"Ontario",United States,ONT,KONT,34.056,-117.601194,944,-8,A
+Licenciado Benito Juarez Intl,"Mexico City",Mexico,MEX,MMMX,19.436303,-99.072097,7316,-6,S
+Bob Hope,"Burbank",United States,BUR,KBUR,34.200667,-118.358667,778,-8,A
+Ted Stevens Anchorage Intl,"Anchorage",United States,ANC,PANC,61.174361,-149.996361,152,-9,A
+Schiphol,"Amsterdam",Netherlands,AMS,EHAM,52.308613,4.763889,-11,1,E
+Eppley Afld,"Omaha",United States,OMA,KOMA,41.303167,-95.894069,984,-6,A
+Vancouver Intl,"Vancouver",Canada,YVR,CYVR,49.193889,-123.184444,14,-8,A
+Theodore Francis Green State,"Providence",United States,PVD,KPVD,41.732581,-71.420383,55,-5,A
+Incheon Intl,"Seoul",South Korea,ICN,RKSI,37.469075,126.450517,23,9,U
+Reno Tahoe Intl,"Reno",United States,RNO,KRNO,39.499108,-119.768108,4415,-8,A
+Tucson Intl,"Tucson",United States,TUS,KTUS,32.116083,-110.941028,2643,-7,N
+Will Rogers World,"Oklahoma City",United States,OKC,KOKC,35.393089,-97.600733,1295,-6,A
+Norfolk Intl,"Norfolk",United States,ORF,KORF,36.894611,-76.201222,26,-5,A
+Louisville International Airport,"Louisville",United States,SDF,KSDF,38.1740858,-85.7364989,501,-5,A
+Richmond Intl,"Richmond",United States,RIC,KRIC,37.505167,-77.319667,167,-5,A
+Pierre Elliott Trudeau Intl,"Montreal",Canada,YUL,CYUL,45.470556,-73.740833,118,-5,A
+Spokane Intl,"Spokane",United States,GEG,KGEG,47.619861,-117.533833,2376,-8,A
+El Paso Intl,"El Paso",United States,ELP,KELP,31.80725,-106.377583,3958,-7,A
+Long Beach,"Long Beach",United States,LGB,KLGB,33.817722,-118.151611,60,-8,A
+Birmingham Intl,"Birmingham",United States,BHM,KBHM,33.562942,-86.75355,644,-6,A
+Guam Intl,"Agana",Guam,GUM,PGUM,13.48345,144.795983,298,10,U
+Boise Air Terminal,"Boise",United States,BOI,KBOI,43.564361,-116.222861,2871,-7,A
+Manchester Regional Airport,"Manchester NH",United States,MHT,KMHT,42.932556,-71.435667,266,-5,A
+Tulsa Intl,"Tulsa",United States,TUL,KTUL,36.198389,-95.888111,677,-6,A
+Kona Intl At Keahole,"Kona",United States,KOA,PHKO,19.738767,-156.045631,47,-10,N
+Greater Rochester Intl,"Rochester",United States,ROC,KROC,43.118866,-77.672389,559,-5,A
+James M Cox Dayton Intl,"Dayton",United States,DAY,KDAY,39.902375,-84.219375,1009,-5,A
+Albany Intl,"Albany",United States,ALB,KALB,42.748267,-73.801692,285,-5,A
+Calgary Intl,"Calgary",Canada,YYC,CYYC,51.113888,-114.020278,3557,-7,A
+Lihue,"Lihue",United States,LIH,PHLI,21.975983,-159.338958,153,-10,N
+Guarulhos Gov Andre Franco Montouro,"Sao Paulo",Brazil,GRU,SBGR,-23.432075,-46.469511,2459,-3,S
+Adams Fld,"Little Rock",United States,LIT,KLIT,34.729444,-92.224306,262,-6,A
+Hong Kong Intl,"Hong Kong",Hong Kong,HKG,VHHH,22.308919,113.914603,28,8,U
+Gerald R Ford Intl,"Grand Rapids",United States,GRR,KGRR,42.880833,-85.522806,794,-5,A
+Lynden Pindling Intl,"Nassau",Bahamas,NAS,MYNN,25.038958,-77.466231,16,-5,U
+Sangster Intl,"Montego Bay",Jamaica,MBJ,MKJS,18.503717,-77.913358,4,-5,U
+Las Americas Intl,"Santo Domingo",Dominican Republic,SDQ,MDSD,18.429664,-69.668925,59,-4,U
+Syracuse Hancock Intl,"Syracuse",United States,SYR,KSYR,43.111187,-76.106311,421,-5,A
+Barajas,"Madrid",Spain,MAD,LEMD,40.493556,-3.566764,2000,1,E
+Westchester Co,"White Plains",United States,HPN,KHPN,41.066959,-73.707575,439,-5,A
+Charleston Afb Intl,"Charleston",United States,CHS,KCHS,32.898647,-80.040528,45,-5,A
+Don Miguel Hidalgo Y Costilla Intl,"Guadalajara",Mexico,GDL,MMGL,20.5218,-103.311167,5016,-6,S
+Taoyuan Intl,"Taipei",Taiwan,TPE,RCTP,25.077731,121.232822,106,8,U
+Fiumicino,"Rome",Italy,FCO,LIRF,41.804475,12.250797,15,1,E
+Franz Josef Strauss,"Munich",Germany,MUC,EDDM,48.353783,11.786086,1487,1,E
+Juan Santamaria Intl,"San Jose",Costa Rica,SJO,MROC,9.993861,-84.208806,3021,-6,U
+Des Moines Intl,"Des Moines",United States,DSM,KDSM,41.533972,-93.663083,958,-6,A
+Los Cabos Intl,"San Jose Del Cabo",Mexico,SJD,MMSD,23.15185,-109.721044,374,-7,S
+Long Island Mac Arthur,"Islip",United States,ISP,KISP,40.79525,-73.100222,99,-5,A
+City Of Colorado Springs Muni,"Colorado Springs",United States,COS,KCOS,38.805805,-104.700778,6187,-7,A
+Portland Intl Jetport,"Portland",United States,PWM,KPWM,43.646161,-70.309281,77,-5,A
+Piedmont Triad,"Greensboro",United States,GSO,KGSO,36.09775,-79.937306,925,-5,A
+Mc Ghee Tyson,"Knoxville",United States,TYS,KTYS,35.810972,-83.994028,981,-5,A
+Savannah Hilton Head Intl,"Savannah",United States,SAV,KSAV,32.127583,-81.202139,51,-5,A
+Myrtle Beach Intl,"Myrtle Beach",United States,MYR,KMYR,33.67975,-78.928333,25,-5,A
+Akron Canton Regional Airport,"Akron",United States,CAK,KCAK,40.9160833,-81.4421944,1228,-5,A
+Wichita Mid Continent,"Wichita",United States,ICT,KICT,37.649944,-97.433056,1333,-6,A
+Tocumen Intl,"Panama City",Panama,PTY,MPTO,9.071364,-79.383453,135,-5,U
+Zurich,"Zurich",Switzerland,ZRH,LSZH,47.464722,8.549167,1416,1,E
+Dane Co Rgnl Truax Fld,"Madison",United States,MSN,KMSN,43.139858,-89.337514,887,-6,A
+Ben Gurion,"Tel-aviv",Israel,TLV,LLBG,32.011389,34.886667,135,2,U
+Palm Springs Intl,"Palm Springs",United States,PSP,KPSP,33.829667,-116.506694,477,-8,A
+Sydney Intl,"Sydney",Australia,SYD,YSSY,-33.946111,151.177222,21,10,O
+Licenciado Gustavo Diaz Ordaz Intl,"Puerto Vallarta",Mexico,PVR,MMPR,20.680083,-105.254167,23,-6,S
+Gatwick,"London",United Kingdom,LGW,EGKK,51.148056,-0.190278,202,0,E
+Pensacola Rgnl,"Pensacola",United States,PNS,KPNS,30.473425,-87.186611,121,-6,A
+El Salvador Intl,"San Salvador",El Salvador,SAL,MSLP,13.440947,-89.055728,101,-6,U
+Dublin,"Dublin",Ireland,DUB,EIDW,53.421333,-6.270075,242,0,E
+Capital Intl,"Beijing",China,PEK,ZBAA,40.080111,116.584556,116,8,U
+Atlantic City Intl,"Atlantic City",United States,ACY,KACY,39.457583,-74.577167,75,-5,A
+Dubai Intl,"Dubai",United Arab Emirates,DXB,OMDB,25.252778,55.364444,62,4,U
+Sarasota Bradenton Intl,"Sarasota",United States,SRQ,KSRQ,27.395444,-82.554389,30,-5,A
+Harrisburg Intl,"Harrisburg",United States,MDT,KMDT,40.193494,-76.763403,310,-5,A
+Punta Cana Intl,"Punta Cana",Dominican Republic,PUJ,MDPC,18.567367,-68.363431,47,-4,U
+Eldorado Intl,"Bogota",Colombia,BOG,SKBO,4.701594,-74.146947,8361,-5,U
+Greenville-Spartanburg International,"Greenville",United States,GSP,KGSP,34.895556,-82.218889,964,-5,A
+Burlington Intl,"Burlington",United States,BTV,KBTV,44.471861,-73.153278,335,-5,A
+Hilo Intl,"Hilo",United States,ITO,PHTO,19.721375,-155.048469,38,-10,N
+Jackson Evers Intl,"Jackson",United States,JAN,KJAN,32.311167,-90.075889,346,-6,A
+Manchester,"Manchester",United Kingdom,MAN,EGCC,53.353744,-2.27495,257,0,E
+Cyril E King,"St. Thomas",Virgin Islands,STT,TIST,18.337306,-64.973361,23,-4,U
+Huntsville International Airport-Carl T Jones Field,"Huntsville",United States,HSV,KHSV,34.6371944,-86.7750556,629,-6,A
+Jorge Chavez Intl,"Lima",Peru,LIM,SPIM,-12.021889,-77.114319,113,-5,U
+Ministro Pistarini,"Buenos Aires",Argentina,EZE,SAEZ,-34.822222,-58.535833,67,-3,N
+Pudong,"Shanghai",China,PVG,ZSPD,31.143378,121.805214,13,8,U
+Reina Beatrix Intl,"Oranjestad",Aruba,AUA,TNCA,12.501389,-70.015221,60,-4,U
+Fresno Yosemite Intl,"Fresno",United States,FAT,KFAT,36.776194,-119.71814,336,-8,A
+Kansai,"Osaka",Japan,KIX,RJBB,34.4347222,135.244167,49,9,U
+NW Arkansas Regional,"Bentonville",United States,XNA,KXNA,36.2818694,-94.3068111,1287,-6,A
+Blue Grass,"Lexington KY",United States,LEX,KLEX,38.0365,-84.605889,979,-5,A
+Orlando Sanford Intl,"Sanford",United States,SFB,KSFB,28.777639,-81.237489,55,-5,A
+La Aurora,"Guatemala City",Guatemala,GUA,MGGT,14.583272,-90.527475,4952,-6,U
+Newport News Williamsburg Intl,"Newport News",United States,PHF,KPHF,37.131894,-76.492989,43,-5,A
+Ninoy Aquino Intl,"Manila",Philippines,MNL,RPLL,14.508647,121.019581,75,8,U
+Brussels Natl,"Brussels",Belgium,BRU,EBBR,50.901389,4.484444,184,1,E
+Lubbock Preston Smith Intl,"Lubbock",United States,LBB,KLBB,33.663639,-101.822778,3282,-6,A
+Columbia Metropolitan,"Colombia",United States,CAE,KCAE,33.938833,-81.119528,236,-5,A
+Bishop International,"Flint",United States,FNT,KFNT,42.965424,-83.743629,782,-5,A
+Edmonton Intl,"Edmonton",Canada,YEG,CYEG,53.309723,-113.579722,2373,-7,A
+Simon Bolivar Intl,"Caracas",Venezuela,CCS,SVMI,10.603117,-66.990583,235,-4,U
+Quad City Intl,"Moline",United States,MLI,KMLI,41.448528,-90.507539,590,-6,A
+Cedar Rapids,"Cedar Rapids",United States,CID,KCID,41.884694,-91.710806,869,-6,A
+Midland Intl,"Midland",United States,MAF,KMAF,31.942528,-102.201914,2871,-6,A
+Fairbanks Intl,"Fairbanks",United States,FAI,PAFA,64.815114,-147.856267,434,-9,A
+Gulfport-Biloxi,"Gulfport",United States,GPT,KGPT,30.407278,-89.070111,28,-6,A
+Norman Manley Intl,"Kingston",Jamaica,KIN,MKJP,17.935667,-76.7875,10,-5,U
+Piarco,"Port-of-spain",Trinidad and Tobago,POS,TTPP,10.595369,-61.337242,58,-4,U
+Galeao Antonio Carlos Jobim,"Rio De Janeiro",Brazil,GIG,SBGL,-22.808903,-43.243647,28,-3,S
+Phoenix-Mesa Gateway,"Mesa",United States,AZA,KIWA,33.307833,-111.655,1382,-7,N
+Lehigh Valley Intl,"Allentown",United States,ABE,KABE,40.652083,-75.440806,393,-5,A
+Cibao Intl,"Santiago",Dominican Republic,STI,MDST,19.406092,-70.604689,565,-4,U
+Wilmington Intl,"Wilmington",United States,ILM,KILM,34.270615,-77.902569,32,-5,A
+Toussaint Louverture Intl,"Port-au-prince",Haiti,PAP,MTPP,18.58005,-72.292542,122,-5,U
+Rick Husband Amarillo Intl,"Amarillo",United States,AMA,KAMA,35.219369,-101.705931,3607,-6,A
+Billings Logan International Airport,"Billings",United States,BIL,KBIL,45.80921,-108.537654,3652,-7,A
+Francisco C Ada Saipan Intl,"Saipan",Northern Mariana Islands,SPN,PGSN,15.119003,145.729356,215,10,U
+St Petersburg Clearwater Intl,"St. Petersburg",United States,PIE,KPIE,27.910167,-82.687389,10,-5,A
+Bellingham Intl,"Bellingham",United States,BLI,KBLI,48.792694,-122.537528,170,-8,A
+Springfield Branson Natl,"Springfield",United States,SGF,KSGF,37.245667,-93.388639,1268,-6,A
+Baton Rouge Metro Ryan Fld,"Baton Rouge",United States,BTR,KBTR,30.533167,-91.149639,70,-6,A
+Valley Intl,"Harlingen",United States,HRL,KHRL,26.2285,-97.654389,36,-6,A
+Dusseldorf,"Duesseldorf",Germany,DUS,EDDL,51.289453,6.766775,147,1,E
+Santa Barbara Muni,"Santa Barbara",United States,SBA,KSBA,34.426211,-119.840372,10,-8,A
+Ottawa Macdonald Cartier Intl,"Ottawa",Canada,YOW,CYOW,45.3225,-75.669167,374,-5,A
+Mahlon Sweet Fld,"Eugene",United States,EUG,KEUG,44.124583,-123.211972,374,-8,A
+Asheville Regional Airport,"Asheville",United States,AVL,KAVL,35.436194,-82.541806,2165,-5,A
+Gallatin Field,"Bozeman",United States,BZN,KBZN,45.777643,-111.160151,4500,-7,A
+Hector International Airport,"Fargo",United States,FAR,KFAR,46.92065,-96.8157639,902,-6,A
+Sioux Falls,"Sioux Falls",United States,FSD,KFSD,43.582014,-96.741914,1429,-6,A
+Eglin Afb,"Valparaiso",United States,VPS,KVPS,30.48325,-86.5254,87,-6,A
+General Mariano Escobedo Intl,"Monterrey",Mexico,MTY,MMMY,25.778489,-100.106878,1278,-6,S
+Austin Straubel Intl,"Green Bay",United States,GRB,KGRB,44.485072,-88.129589,695,-6,A
+Arturo Merino Benitez Intl,"Santiago",Chile,SCL,SCEL,-33.392975,-70.785803,1555,-4,S
+Princess Juliana Intl,"Philipsburg",Netherlands Antilles,SXM,TNCM,18.040953,-63.1089,14,-4,U
+Corpus Christi Intl,"Corpus Christi",United States,CRP,KCRP,27.770361,-97.501222,44,-6,A
+Mc Allen Miller Intl,"Mcallen",United States,MFE,KMFE,26.175833,-98.238611,107,-6,A
+Kastrup,"Copenhagen",Denmark,CPH,EKCH,55.617917,12.655972,17,1,E
+Owen Roberts Intl,"Georgetown",Cayman Islands,GCM,MWCR,19.292778,-81.35775,8,-5,U
+Tallahassee Rgnl,"Tallahassee",United States,TLH,KTLH,30.396528,-84.350333,81,-5,A
+Auckland Intl,"Auckland",New Zealand,AKL,NZAA,-37.008056,174.791667,23,12,Z
+Changi Intl,"Singapore",Singapore,SIN,WSSS,1.350189,103.994433,22,8,U
+South Bend Rgnl,"South Bend",United States,SBN,KSBN,41.708661,-86.31725,799,-5,A
+Roanoke Regional,"Roanoke VA",United States,ROA,KROA,37.325472,-79.975417,1175,-5,A
+Tri Cities Airport,"Pasco",United States,PSC,PSC,46.2647,-119.119,410,-8,A
+Rogue Valley Intl Medford,"Medford",United States,MFR,KMFR,42.374228,-122.8735,1335,-8,A
+Bermuda Intl,"Bermuda",Bermuda,BDA,TXKF,32.364042,-64.678703,12,-4,U
+Barcelona,"Barcelona",Spain,BCN,LEBL,41.297078,2.078464,12,1,E
+Chubu Centrair Intl,"Nagoya",Japan,NGO,RJGG,34.858414,136.805408,15,9,U
+Rapid City Regional Airport,"Rapid City",United States,RAP,KRAP,44.045278,-103.057222,3204,-7,A
+Lovell Fld,"Chattanooga",United States,CHA,KCHA,35.035278,-85.203808,683,-5,A
+Juneau Intl,"Juneau",United States,JNU,PAJN,58.354972,-134.576278,21,-9,A
+Missoula Intl,"Missoula",United States,MSO,KMSO,46.916306,-114.090556,3205,-7,A
+Jackson Hole Airport,"Jacksn Hole",United States,JAC,KJAC,43.607333333,-110.73775,6451,-7,A
+Key West Intl,"Key West",United States,EYW,KEYW,24.556111,-81.759556,3,-5,A
+Mobile Rgnl,"Mobile",United States,MOB,KMOB,30.691231,-88.242814,219,-6,A
+Central Illinois Rgnl,"Bloomington",United States,BMI,KBMI,40.477111,-88.915917,871,-6,A
+Fort Wayne,"Fort Wayne",United States,FWA,KFWA,40.978472,-85.195139,815,-5,A
+Appleton,"Appleton",United States,ATW,KATW,44.257526,-88.507576,680,-6,A
+Doha Intl,"Doha",Qatar,DOH,OTBD,25.261125,51.565056,35,4,U
+Yeager,"Charleston",United States,CRW,KCRW,38.373147,-81.593189,981,-5,A
+Managua Intl,"Managua",Nicaragua,MGA,MNMG,12.141494,-86.168178,194,-6,U
+Fayetteville Regional Grannis Field,"Fayetteville",United States,FAY,KFAY,34.9912,-78.8803,189,-5,A
+Panama City-NW Florida Bea.,"Panama City",United States,ECP,KECP,30.3417,-85.7973,69,-6,A
+Malpensa,"Milano",Italy,MXP,LIMC,45.630606,8.728111,767,1,E
+Peoria Regional,"Peoria",United States,PIA,KPIA,40.664203,-89.693258,660,-6,A
+Mariscal Sucre Intl,"Quito",Ecuador,UIO,SEQU,-0.141144,-78.488214,9228,-5,U
+Ataturk,"Istanbul",Turkey,IST,LTBA,40.976922,28.814606,163,2,E
+Daytona Beach Intl,"Daytona Beach",United States,DAB,KDAB,29.179917,-81.058056,34,-5,A
+Augusta Rgnl At Bush Fld,"Bush Field",United States,AGS,KAGS,33.369944,-81.9645,144,-5,A
+Jose Joaquin De Olmedo Intl,"Guayaquil",Ecuador,GYE,SEGU,-2.157419,-79.883558,19,-5,U
+Shreveport Rgnl,"Shreveport",United States,SHV,KSHV,32.446629,-93.8256,258,-6,A
+Rafael Hernandez,"Aguadilla",Puerto Rico,BQN,TJBQ,18.494861,-67.129444,237,-4,U
+La Mesa Intl,"San Pedro Sula",Honduras,SAP,MHLM,15.452639,-87.923556,91,-6,U
+Winnipeg Intl,"Winnipeg",Canada,YWG,CYWG,49.910036,-97.239886,783,-6,A
+Indira Gandhi Intl,"Delhi",India,DEL,VIDP,28.5665,77.103088,777,5.5,N
+Roberts Fld,"Redmond-Bend",United States,RDM,KRDM,44.254066,-121.149964,3077,-8,A
+Aspen Pitkin County Sardy Field,"Aspen",United States,ASE,KASE,39.2232,-106.869,7820,-7,A
+Grantley Adams Intl,"Bridgetown",Barbados,BGI,TBPB,13.074603,-59.492456,169,-4,U
+Grand Junction Regional,"Grand Junction",United States,GJT,KGJT,39.122413,-108.526735,4858,-7,A
+Lafayette Rgnl,"Lafayette",United States,LFT,KLFT,30.205278,-91.987611,43,-6,A
+Arlanda,"Stockholm",Sweden,ARN,ESSA,59.651944,17.918611,137,1,E
+Johannesburg Intl,"Johannesburg",South Africa,JNB,FAJS,-26.139166,28.246,5558,2,U
+Sheremetyevo,"Moscow",Russia,SVO,UUEE,55.972642,37.414589,622,4,N
+Providenciales,"Providenciales",Turks and Caicos Islands,PLS,MBPV,21.773625,-72.265886,15,-5,U
+Robert Gray Aaf,"Killeen",United States,GRK,KGRK,31.06725,-97.828917,1015,-6,A
+Wilkes Barre Scranton Intl,"Scranton",United States,AVP,KAVP,41.338478,-75.723403,962,-5,A
+Eagle Co Rgnl,"Vail",United States,EGE,KEGE,39.642556,-106.917694,6540,-7,A
+Tri-Cities Regional Airport,"BRISTOL",United States,TRI,KTRI,36.4752222,-82.4074167,1519,-5,A
+Stewart Intl,"Newburgh",United States,SWF,KSWF,41.504094,-74.104839,491,-5,A
+City Centre,"Toronto",Canada,YTZ,CYTZ,43.627499,-79.396167,251,-5,A
+Charlottesville-Albemarle,"Charlottesville VA",United States,CHO,KCHO,38.138639,-78.452861,639,-5,A
+Bismarck Municipal Airport,"Bismarck",United States,BIS,KBIS,46.775842,-100.757931,1661,-6,A
+Chhatrapati Shivaji Intl,"Bombay",India,BOM,VABB,19.088686,72.867919,37,5.5,N
+Jose Marti Intl,"Havana",Cuba,HAV,MUHA,22.989153,-82.409086,210,-5,U
+Bangor Intl,"Bangor",United States,BGR,KBGR,44.807444,-68.828139,192,-5,A
+Montgomery Regional Airport ,"MONTGOMERY",United States,MGM,KMGM,32.3006389,-86.3939722,221,-6,A
+Monterey Peninsula,"Monterey",United States,MRY,KMRY,36.587,-121.842944,257,-8,A
+Henry E Rohlsen,"St. Croix Island",Virgin Islands,STX,TISX,17.701889,-64.798556,74,-4,U
+Jose Maria Cordova,"Rio Negro",Colombia,MDE,SKRG,6.164536,-75.423119,6955,-5,U
+Halifax Intl,"Halifax",Canada,YHZ,CYHZ,44.880833,-63.50861,477,-4,A
+Philip S W Goldson Intl,"Belize City",Belize,BZE,MZBZ,17.539144,-88.308203,15,-6,U
+Cozumel Intl,"Cozumel",Mexico,CZM,MMCZ,20.522403,-86.925644,15,-6,S
+Melbourne Intl,"Melbourne",United States,MLB,KMLB,28.102753,-80.645258,33,-5,A
+Daniel Oduber Quiros Intl,"Liberia",Costa Rica,LIR,MRLB,10.593289,-85.544408,270,-6,U
+Glacier Park Intl,"Kalispell",United States,FCA,KFCA,48.310472,-114.256,2977,-7,A
+Evansville Regional,"Evansville",United States,EVV,KEVV,38.036997,-87.532364,418,-6,A
+Keflavik International Airport,"Keflavik",Iceland,KEF,BIKF,63.985,-22.605556,171,0,N
+Geneva Cointrin,"Geneva",Switzerland,GVA,LSGG,46.238064,6.10895,1411,1,E
+Shannon,"Shannon",Ireland,SNN,EINN,52.701978,-8.924817,46,0,E
+Cherry Capital Airport,"Traverse City",United States,TVC,KTVC,44.741445,-85.582235,624,-5,A
+Okecie,"Warsaw",Poland,WAW,EPWA,52.16575,20.967122,362,1,E
+Gregorio Luperon Intl,"Puerto Plata",Dominican Republic,POP,MDPP,19.7579,-70.570033,15,-4,U
+Durango La Plata Co,"Durango",United States,DRO,KDRO,37.151516,-107.75377,6685,-7,A
+Guanajuato Intl,"Del Bajio",Mexico,BJX,MMLO,20.993464,-101.480847,5956,-6,S
+Albert J Ellis,"Jacksonville NC",United States,OAJ,KOAJ,34.829164,-77.612139,94,-5,A
+Melbourne Intl,"Melbourne",Australia,MEL,YMML,-37.673333,144.843333,434,10,O
+Abu Dhabi Intl,"Abu Dhabi",United Arab Emirates,AUH,OMAA,24.432972,54.651138,88,4,U
+Gainesville Rgnl,"Gainesville",United States,GNV,KGNV,29.690056,-82.271778,152,-5,A
+Eleftherios Venizelos Intl,"Athens",Greece,ATH,LGAV,37.936358,23.944467,308,2,E
+Great Falls Intl,"Great Falls",United States,GTF,KGTF,47.482,-111.370689,3677,-7,A
+Central Wisconsin,"Wassau",United States,CWA,KCWA,44.772726,-89.646635,840,-6,A
+Cairo Intl,"Cairo",Egypt,CAI,HECA,30.121944,31.405556,382,2,U
+Duluth Intl,"Duluth",United States,DLH,KDLH,46.842091,-92.193649,1428,-6,A
+Alexandria Intl,"Alexandria",United States,AEX,KAEX,31.3274,-92.549833,89,-6,A
+Idaho Falls Rgnl,"Idaho Falls",United States,IDA,KIDA,43.514556,-112.07075,4744,-7,A
+Hewanorra Intl,"Hewandorra",Saint Lucia,UVF,TLPL,13.733194,-60.952597,14,-4,U
+University Park Airport,"State College Pennsylvania",United States,SCE,KUNV,40.849278,-77.848694,1239,-5,A
+Mbs Intl,"Saginaw",United States,MBS,KMBS,43.532913,-84.079647,668,-5,A
+Lincoln,"Lincoln",United States,LNK,KLNK,40.850971,-96.75925,1219,-6,A
+Bethel,"Bethel",United States,BET,PABE,60.779778,-161.838,121,-9,A
+Lisboa,"Lisbon",Portugal,LIS,LPPT,38.781311,-9.135919,374,0,E
+Brisbane Intl,"Brisbane",Australia,BNE,YBBN,-27.384167,153.1175,13,10,O
+Schwechat,"Vienna",Austria,VIE,LOWW,48.110278,16.569722,600,1,E
+General Rafael Buelna Intl,"Mazatlan",Mexico,MZT,MMMZ,23.161356,-106.266072,38,-7,S
+Queen Alia Intl,"Amman",Jordan,AMM,OJAI,31.722556,35.993214,2395,2,E
+Elmira Corning Rgnl,"Elmira",United States,ELM,KELM,42.159889,-76.891611,954,-5,A
+Capital City,"Lansing",United States,LAN,KLAN,42.7787,-84.587357,861,-5,A
+Victoria Intl,"Victoria",Canada,YYJ,CYYJ,48.646944,-123.425833,63,-8,A
+San Luis County Regional Airport,"San Luis Obispo",United States,SBP,KSBP,35.2368,-120.642,212,-8,A
+Craven Co Rgnl,"New Bern",United States,EWN,KEWN,35.072972,-77.042944,18,-5,A
+Hato,"Willemstad",Netherlands Antilles,CUR,TNCC,12.188853,-68.959803,29,-4,U
+Erie Intl Tom Ridge Fld,"Erie",United States,ERI,KERI,42.082022,-80.176217,733,-5,A
+Grand Bahama Intl,"Freeport",Bahamas,FPO,MYGF,26.558686,-78.695553,7,-5,U
+Kalamazoo,"Kalamazoo",United States,AZO,KAZO,42.234875,-85.552058,874,-5,A
+Ithaca Tompkins Rgnl,"Ithaca",United States,ITH,KITH,42.491028,-76.458444,1099,-5,A
+Rochester,"Rochester",United States,RST,KRST,43.908283,-92.500014,1317,-6,A
+Alfonso Bonilla Aragon Intl,"Cali",Colombia,CLO,SKCL,3.543222,-76.381583,3162,-5,U
+Faa\\'a International,"Papeete",French Polynesia,PPT,NTAA,-17.556667,-149.611389,7,-10,U
+Laredo Intl,"Laredo",United States,LRD,KLRD,27.54375,-99.461556,508,-6,A
+Grand Forks Intl,"Grand Forks",United States,GFK,KGFK,47.949256,-97.176111,845,-6,A
+Nantucket Mem,"Nantucket",United States,ACK,KACK,41.253053,-70.060181,48,-5,A
+Laughlin-Bullhead Intl,"Bullhead",United States,IFP,IFP,35.1574,-114.56,695,-7,A
+Kuwait Intl,"Kuwait",Kuwait,KWI,OKBK,29.226567,47.968928,206,3,U
+Tri State Milton J Ferguson Field,"Huntington",United States,HTS,KHTS,38.3667,-82.558,828,-5,A
+V C Bird Intl,"Antigua",Antigua and Barbuda,ANU,TAPA,17.136749,-61.792667,62,-4,U
+Greater Binghamton Edwin A Link Fld,"Binghamton",United States,BGM,KBGM,42.208689,-75.979839,1636,-5,A
+Meadows Fld,"Bakersfield",United States,BFL,KBFL,35.433598,-119.05677,507,-8,A
+Yampa Valley,"Hayden",United States,HDN,KHDN,40.481181,-107.21766,6602,-7,A
+Quebec Jean Lesage Intl,"Quebec",Canada,YQB,CYQB,46.791111,-71.393333,244,-5,A
+LaCrosse Municipal,"LaCrosse",United States,LSE,KLSE,43.878986,-91.256711,654,-6,A
+Tegel,"Berlin",Germany,TXL,EDDT,52.559686,13.287711,122,1,E
+Glasgow,"Glasgow",United Kingdom,GLA,EGPF,55.871944,-4.433056,26,0,E
+Toncontin Intl,"Tegucigalpa",Honduras,TGU,MHTG,14.060883,-87.217197,3294,-6,U
+Ketchikan Intl,"Ketchikan",United States,KTN,PAKT,55.355556,-131.71375,88,-9,A
+Monroe Rgnl,"Monroe",United States,MLU,KMLU,32.510864,-92.037689,79,-6,A
+Venezia Tessera,"Venice",Italy,VCE,LIPZ,45.505278,12.351944,7,1,E
+Montrose Regional Airport,"Montrose CO",United States,MTJ,KMTJ,38.509794,-107.894242,5759,-7,A
+Helena Rgnl,"Helena",United States,HLN,KHLN,46.606806,-111.98275,3877,-7,A
+Mercedita,"Ponce",Puerto Rico,PSE,TJPS,18.008306,-66.563028,29,-4,U
+Cheddi Jagan Intl,"Georgetown",Guyana,GEO,SYCJ,6.498553,-58.254119,95,-4,U
+Charles M Schulz Sonoma Co,"Santa Rosa",United States,STS,KSTS,38.508978,-122.81288,125,-8,A
+Lynchburg Regional Preston Glenn Field,"Lynchburg",United States,LYH,KLYH,37.3267,-79.2004,938,-5,A
+Terrance B Lettsome Intl,"Roadtown/beef Island",British Virgin Islands,EIS,TUPJ,18.444834,-64.542975,15,-4,U
+Branson LLC,"Branson",United States,BKG,KBBG,36.531994,-93.200556,1302,-6,A
+Molokai,"Molokai",United States,MKK,PHMK,21.152886,-157.096256,454,-10,N
+Arcata,"Arcata CA",United States,ACV,KACV,40.978111,-124.108611,221,-8,A
+Minot Intl,"Minot",United States,MOT,KMOT,48.259378,-101.280333,1716,-6,A
+General Francisco J Mujica Intl,"Morelia",Mexico,MLM,MMMM,19.849944,-101.0255,6033,-6,S
+Suvarnabhumi Intl,"Bangkok",Thailand,BKK,VTBS,13.681108,100.747283,5,7,U
+Toledo,"Toledo",United States,TOL,KTOL,41.586806,-83.807833,684,-5,A
+Champaign,"Champaign",United States,CMI,KCMI,40.03925,-88.278056,754,-6,A
+Plattsburgh Intl,"Plattsburgh",United States,PBG,KPBG,44.650944,-73.468139,234,-5,A
+Natrona Co Intl,"Casper",United States,CPR,KCPR,42.908,-106.464417,5347,-7,A
+Fort Smith Rgnl,"Fort Smith",United States,FSM,KFSM,35.336583,-94.367444,469,-6,A
+Brownsville South Padre Island Intl,"Brownsville",United States,BRO,KBRO,25.906833,-97.425861,22,-6,A
+Gardermoen,"Oslo",Norway,OSL,ENGM,60.193917,11.100361,681,1,E
+Florence Rgnl,"Florence",United States,FLO,KFLO,34.185361,-79.723889,146,-5,A
+Chicago Rockford International Airport ,"Rockford",United States,RFD,KRFD,42.1953611,-89.0972222,742,-6,A
+Kenai Muni,"Kenai",United States,ENA,PAEN,60.573111,-151.245,99,-9,A
+Ixtapa Zihuatanejo Intl,"Zihuatanejo",Mexico,ZIH,MMZH,17.601569,-101.460536,26,-6,S
+Saskatoon J G Diefenbaker Intl,"Saskatoon",Canada,YXE,CYXE,52.170834,-106.699722,1653,-6,N
+Kodiak,"Kodiak",United States,ADQ,PADQ,57.749967,-152.493856,78,-9,A
+Yuma Mcas Yuma Intl,"Yuma",United States,YUM,KYUM,32.656578,-114.60598,216,-7,N
+Edinburgh,"Edinburgh",United Kingdom,EDI,EGPH,55.95,-3.3725,135,0,E
+Hilton Head,"Hilton Head",United States,HHH,KHHH,32.216,-80.752,10,-5,U
+Nadi Intl,"Nandi",Fiji,NAN,NFFN,-17.755392,177.443378,59,12,U
+Helsinki Vantaa,"Helsinki",Finland,HEL,EFHK,60.317222,24.963333,179,2,E
+Abilene Rgnl,"Abilene",United States,ABI,KABI,32.411319,-99.681897,1791,-6,A
+Tyler Pounds Rgnl,"Tyler",United States,TYR,KTYR,32.354139,-95.402386,544,-6,A
+Easterwood Fld,"College Station",United States,CLL,KCLL,30.588583,-96.363833,321,-6,A
+Regina Intl,"Regina",Canada,YQR,CYQR,50.431944,-104.665833,1894,-6,N
+Robert L Bradshaw,"Basse Terre",Saint Kitts and Nevis,SKB,TKPK,17.311194,-62.718667,170,-4,U
+Eduardo Gomes Intl,"Manaus",Brazil,MAO,SBEG,-3.038611,-60.049721,264,-4,S
+Kotoka Intl,"Accra",Ghana,ACC,DGAA,5.605186,-0.166786,205,0,N
+Ruzyne,"Prague",Czech Republic,PRG,LKPR,50.100833,14.26,1247,1,E
+Grand Canyon National Park Airport,"Grand Canyon",United States,GCN,KGCN,35.9523611,-112.1469722,6609,-7,N
+Rafael Nunez,"Cartagena",Colombia,CTG,SKCG,10.442381,-75.512961,4,-5,U
+Lake Charles Rgnl,"Lake Charles",United States,LCH,KLCH,30.126112,-93.223335,15,-6,A
+Salisbury Ocean City Wicomico Rgnl,"Salisbury",United States,SBY,KSBY,38.340525,-75.510289,52,-5,A
+Sitka Rocky Gutierrez,"Sitka",United States,SIT,PASI,57.047138,-135.361611,21,-9,A
+Flagstaff Pulliam Airport,"Flagstaff",United States,FLG,KFLG,35.140318,-111.6692392,7015,-7,N
+Lawton-Fort Sill Regional Airport,"Lawton",United States,LAW,KLAW,34.5677144,-98.4166367,1110,-6,A
+Ernesto Cortissoz,"Barranquilla",Colombia,BAQ,SKBQ,10.889589,-74.780819,98,-5,U
+Pitt-Greenville Airport,"Greenville",United States,PGV,KPGV,35.635278,-77.385278,27,-5,A
+Murtala Muhammed,"Lagos",Nigeria,LOS,DNMM,6.577369,3.321156,135,1,N
+Lewiston Nez Perce Co,"Lewiston",United States,LWS,KLWS,46.3745,-117.015389,1442,-8,A
+Tokyo Intl,"Tokyo",Japan,HND,RJTT,35.552258,139.779694,35,9,U
+Boryspil Intl,"Kiev",Ukraine,KBP,UKBB,50.345,30.894722,427,2,E
+Viru Viru Intl,"Santa Cruz",Bolivia,VVI,SLVR,-17.644756,-63.135364,1225,-4,U
+Tunica Municipal Airport,"Tunica",United States,UTM,KUTA,34.681,-90.3467,194,-6,A
+Waco Rgnl,"Waco",United States,ACT,KACT,31.611289,-97.230519,516,-6,A
+Domododevo,"Moscow",Russia,DME,UUDD,55.408611,37.906111,588,4,N
+Columbus Metropolitan Airport,"Columbus",United States,CSG,KCSG,32.5163333,-84.9388611,397,-5,A
+Stuttgart,"Stuttgart",Germany,STR,EDDS,48.689878,9.221964,1276,1,E
+Panama City Bay Co Intl,"Panama City",United States,PFN,KPFN,30.212083,-85.682806,20,-6,A
+Bole Intl,"Addis Ababa",Ethiopia,ADD,HAAB,8.977889,38.799319,7656,3,U
+Ralph Wien Mem,"Kotzebue",United States,OTZ,PAOT,66.884678,-162.59855,11,-9,A
+Abraham Lincoln Capital,"Springfield",United States,SPI,KSPI,39.8441,-89.677889,597,-6,A
+Birmingham,"Birmingham",United Kingdom,BHX,EGBB,52.453856,-1.748028,327,0,E
+Sawyer International Airport,"Marquette",United States,MQT,KMQT,46.353611,-87.395278,1221,-5,A
+Charlotte County-Punta Gorda Airport,"Punta Gorda",United States,PGD,KPGD,26.919722,-81.990556,26,-5,A
+Nome,"Nome",United States,OME,PAOM,64.512203,-165.445247,37,-9,A
+Mohammed V Intl,"Casablanca",Morocco,CMN,GMMN,33.367467,-7.589967,656,0,N
+San Angelo Rgnl Mathis Fld,"San Angelo",United States,SJT,KSJT,31.35775,-100.496306,1919,-6,A
+Redding Muni,"Redding",United States,RDD,KRDD,40.509,-122.293389,504,-8,A
+Orly,"Paris",France,ORY,LFPO,48.725278,2.359444,291,1,E
+Kelowna,"Kelowna",Canada,YLW,CYLW,49.956112,-119.377778,1409,-8,A
+General Juan N Alvarez Intl,"Acapulco",Mexico,ACA,MMAA,16.757061,-99.753953,16,-6,S
+Friedman Mem,"Hailey",United States,SUN,KSUN,43.504444,-114.296194,5320,-7,A
+La Chinita Intl,"Maracaibo",Venezuela,MAR,SVMC,10.558208,-71.727856,235,-4,U
+Yakima Air Terminal McAllister Field,"Yakima",United States,YKM,KYKM,46.5682,-120.544,1095,-8,A
+Hamburg,"Hamburg",Germany,HAM,EDDH,53.630389,9.988228,53,1,E
+Cote D Azur,"Nice",France,NCE,LFMN,43.658411,7.215872,12,1,E
+Wendover,"Wendover",United States,ENV,KENV,40.718694,-114.030889,4237,-7,A
+Stockton Metropolitan,"Stockton",United States,SCK,KSCK,37.894167,-121.238306,33,-8,A
+Aldergrove,"Belfast",United Kingdom,BFS,EGAA,54.6575,-6.215833,268,0,E
+Scappoose Industrial Airpark,"San Luis",United States,SPB,KSPB,45.771028,-122.861833,58,-8,A
+Santa Maria Pub Cpt G Allan Hancock Airport,"Santa Maria",United States,SMX,KSMX,34.8989,-120.457,261,-8,A
+Christiansted Harbor Seaplane Base,"Christiansted",Virgin Islands,SSB,,17.747222,-64.705,0,-4,A
+Baiyun Intl,"Guangzhou",China,CAN,ZGGG,23.392436,113.298786,50,8,U
+Pangborn Field,"Wenatchee",United States,EAT,KEAT,47.398,-120.206,1249,-8,A
+Lanai,"Lanai",United States,LNY,PHNY,20.785611,-156.951419,1308,-10,N
+Santa Fe Muni,"Santa Fe",United States,SAF,KSAF,35.617108,-106.089422,6348,-7,A
+Licenciado Adolfo Lopez Mateos Intl,"Toluca",Mexico,TLC,MMTO,19.337072,-99.566008,8466,-6,S
+Ahmedabad,"Ahmedabad",India,AMD,VAAH,23.077242,72.63465,189,5.5,N
+Pago Pago Intl,"Pago Pago",American Samoa,PPG,NSTU,-14.331,-170.7105,32,-11,U
+Martha\\'s Vineyard,"Vineyard Haven MA",United States,MVY,KMVY,41.391667,-70.615278,67,-5,A
+Bristol,"Bristol",United Kingdom,BRS,EGGD,51.382669,-2.719089,622,0,E
+London,"London",Canada,YXU,CYXU,43.033056,-81.151111,912,-5,A
+Carrasco Intl,"Montevideo",Uruguay,MVD,SUMU,-34.838417,-56.030806,105,-3,S
+Manhattan Reigonal,"Manhattan",United States,MHK,KMHK,39.140972,-96.670833,1057,-6,A
+Valdosta Regional Airport,"Valdosta",United States,VLD,KVLD,30.7825,-83.2767,203,-5,A
+Dothan Rgnl,"Dothan",United States,DHN,KDHN,31.321339,-85.449628,401,-6,A
+North Las Vegas Airport,"Las Vegas",United States,VGT,,36.2106944,-115.1944444,2205,-7,U
+Wiley Post Will Rogers Mem,"Barrow",United States,BRW,PABR,71.285446,-156.766003,44,-9,A
+Kapalua,"Lahania-kapalua",United States,JHM,PHJH,20.962936,-156.673031,256,-10,A
+Licenciado Manuel Crescencio Rejon Int,"Merida",Mexico,MID,MMMD,20.936981,-89.657672,38,-6,S
+Fernando Luis Ribas Dominicci,"San Juan",Puerto Rico,SIG,TJIG,18.456828,-66.098139,10,-4,U
+Roswell Intl Air Center,"Roswell",United States,ROW,KROW,33.301556,-104.530556,3671,-7,A
+St George Muni,"Saint George",United States,SGU,KSGU,37.090583,-113.593056,2941,-7,A
+El Alto Intl,"La Paz",Bolivia,LPB,SLLP,-16.513339,-68.192256,13325,-4,U
+Sheppard Afb Wichita Falls Muni,"Wichita Falls",United States,SPS,KSPS,33.988797,-98.491894,1019,-6,A
+Columbia Rgnl,"Columbia",United States,COU,KCOU,38.818094,-92.219631,889,-6,A
+Barnstable Muni Boardman Polando Fld,"Barnstable",United States,HYA,KHYA,41.669336,-70.280356,55,-5,A
+Deadhorse,"Deadhorse",United States,SCC,PASC,70.19475,-148.465167,64,-9,A
+Marsh Harbour,"Marsh Harbor",Bahamas,MHH,MYAM,26.511406,-77.083472,6,-5,U
+Fukuoka,"Fukuoka",Japan,FUK,RJFF,33.585942,130.450686,32,9,U
+Point Salines Intl,"Point Salines",Grenada,GND,TGPY,12.004247,-61.786192,41,-4,U
+Central Nebraska Regional Airport,"Grand Island",United States,GRI,KGRI,40.9675,-98.3096,1847,-6,A
+Pullman-Moscow Rgnl,"Pullman",United States,PUW,KPUW,46.743861,-117.109583,2556,-8,A
+Gunnison - Crested Butte,"Gunnison",United States,GUC,KGUC,38.533889,-106.933056,7678,-7,A
+Tweed-New Haven Airport,"New Haven",United States,HVN,KHVN,41.26375,-72.886806,14,-5,A
+Ferihegy,"Budapest",Hungary,BUD,LHBP,47.436933,19.255592,495,1,E
+General Leobardo C Ruiz Intl,"Zacatecas",Mexico,ZCL,MMZC,22.897112,-102.68689,7141,-6,S
+Golden Triangle Regional Airport,"Columbus Mississippi",United States,GTR,KGTR,33.450333,-88.591361,264,-6,A
+General Ignacio P Garcia Intl,"Hermosillo",Mexico,HMO,MMHO,29.095858,-111.047858,627,-7,S
+Fort Collins Loveland Muni,"F",United States,FNL,KFNL,40.451828,-105.011336,5016,-7,A
+King Salmon,"King Salmon",United States,AKN,PAKN,58.676778,-156.649278,68,-9,A
+Southwest Georgia Regional Airport,"Albany",United States,ABY,KABY,31.5355,-84.1945,197,-5,A
+Vieques Airport,"Vieques Island",Puerto Rico,VQS,TJCG,18.1158,-65.4227,19,-4,U
+Allama Iqbal Intl,"Lahore",Pakistan,LHE,OPLA,31.521564,74.403594,712,5,U
+Tancredo Neves Intl,"Belo Horizonte",Brazil,CNF,SBCF,-19.63375,-43.968856,2715,-3,S
+Ponciano Arriaga Intl,"San Luis Potosi",Mexico,SLP,MMSP,22.254303,-100.930806,6035,-6,S
+Dubuque Rgnl,"Dubuque IA",United States,DBQ,KDBQ,42.402,-90.709472,1076,-6,A
+Magic Valley Regional Airport,"Twin Falls",United States,TWF,KTWF,42.481803,-114.487733,4151,-7,A
+Leopold Sedar Senghor Intl,"Dakar",Senegal,DKR,GOOY,14.739708,-17.490225,85,0,N
+Boeing Fld King Co Intl,"Seattle",United States,BFI,KBFI,47.53,-122.301947,21,-8,A
+Playa De Oro Intl,"Manzanillo",Mexico,ZLO,MMZO,19.144778,-104.558631,30,-6,S
+Dillingham,"Dillingham",United States,DLG,PADL,59.044667,-158.5055,74,-9,A
+Presidente Juscelino Kubitschek,"Brasilia",Brazil,BSB,SBBR,-15.8711,-47.918625,3479,-3,S
+Jesus Teran Intl,"Aguascalientes",Mexico,AGU,MMAS,21.705558,-102.317858,6112,-6,S
+Brunswick Golden Isles Airport,"Brunswick",United States,BQK,KBQK,31.2588,-81.4665,26,-5,A
+Ponta Delgada,"Ponta Delgada",Portugal,PDL,LPPD,37.741184,-25.69787,259,-1,E
+Gillette-Campbell County Airport,"Gillette",United States,GCC,KGCC,44.3489167,-105.5393611,4365,-7,A
+Juan Manuel Galvez Intl,"Roatan",Honduras,RTB,MHRO,16.316814,-86.522961,18,-6,U
+Hyderabad,"Hyderabad",India,HYD,VOHY,17.453117,78.467586,1742,5.5,N
+Babelthuap,"Babelthuap",Palau,ROR,PTRO,7.367303,134.544278,176,9,U
+Walla Walla Regional Airport,"Walla Walla",United States,ALW,KALW,46.0949,-118.288,1191,-8,A
+Youngstown Warren Rgnl,"Youngstown",United States,YNG,KYNG,41.260736,-80.679097,1196,-5,A
+Yellowstone Rgnl,"Cody",United States,COD,KCOD,44.520194,-109.023806,5102,-7,A
+Boulder City Municipal Airport,"Boulder City",United States,BLD,KBVU,35.5651,-114.514,2201,-8,U
+Texarkana Rgnl Webb Fld,"Texarkana",United States,TXK,KTXK,33.453722,-93.991028,390,-6,A
+Unalaska,"Unalaska",United States,DUT,PADU,53.900139,-166.5435,22,-9,A
+McClellan-Palomar Airport,"Carlsbad",United States,CLD,KCRQ,33.0742,-117.1648,328,-8,A
+Balice,"Krakow",Poland,KRK,EPKK,50.077731,19.784836,791,1,E
+General R Fierro Villalobos Intl,"Chihuahua",Mexico,CUU,MMCU,28.702875,-105.964567,4462,-6,S
+Sioux Gateway Col Bud Day Fld,"Sioux City",United States,SUX,KSUX,42.402603,-96.384367,1098,-6,A
+Bert Mooney Airport,"Butte",United States,BTM,KBTM,45.954806,-112.497472,5550,-7,A
+Guararapes Gilberto Freyre Intl,"Recife",Brazil,REC,SBRF,-8.126794,-34.923039,33,-3,S
+Homer,"Homer",United States,HOM,PAHO,59.645556,-151.476583,84,-9,A
+Porto,"Porto",Portugal,OPO,LPPR,41.248055,-8.681389,228,0,E
+Rhinelander Oneida County Airport,"Rhinelander",United States,RHI,KRHI,45.6312,-89.4675,1624,-6,A
+Matecana,"Pereira",Colombia,PEI,SKPE,4.812675,-75.739519,4416,-5,U
+Modesto City Co Harry Sham,"Modesto",United States,MOD,KMOD,37.625817,-120.954422,97,-8,A
+Flamingo,"Kralendijk",Netherlands Antilles,BON,TNCB,12.131044,-68.268511,20,-4,U
+Exuma Intl,"Great Exuma",Bahamas,GGT,MYEF,23.562631,-75.877958,9,-5,U
+Pisa,"Pisa",Italy,PSA,LIRP,43.683917,10.39275,6,1,E
+Deputado Luis Eduardo Magalhaes,"Salvador",Brazil,SSA,SBSV,-12.910994,-38.331044,64,-3,S
+Fagali\\'i,"Apia",Samoa,FGI,NSFI,-13.84861111,-171.74083333,25,-11,U
+Southwest Oregon Regional Airport,"North Bend",United States,OTH,KOTH,43.4171,-124.246,17,-8,A
+Waterloo Regional Airport,"Waterloo",United States,ALO,KALO,42.5571,-92.4003,873,-6,A
+Chico Muni,"Chico",United States,CIC,KCIC,39.795383,-121.858422,238,-8,A
+Pellston Regional Airport of Emmet County Airport,"Pellston",United States,PLN,KPLN,45.5709,-84.7967,720,-5,A
+Le Raizet,"Pointe-a-pitre",Guadeloupe,PTP,TFFR,16.265306,-61.531806,36,-4,U
+Niagara Falls Intl,"Niagara Falls",United States,IAG,KIAG,43.107333,-78.946194,589,-5,A
+Rota Intl,"Rota",Northern Mariana Islands,ROP,PGRO,14.174308,145.242536,607,10,U
+Torreon Intl,"Torreon",Mexico,TRC,MMTC,25.568278,-103.410583,3688,-6,S
+Williamsport Rgnl,"Williamsport",United States,IPT,KIPT,41.241836,-76.921094,529,-5,A
+Klamath Falls Airport,"Klamath Falls",United States,LMT,KLMT,42.1561,-121.733,4095,-8,A
+Gimhae Intl,"Busan",South Korea,PUS,RKPK,35.179528,128.938222,6,9,U
+Bemidji Regional Airport,"Bemidji",United States,BJI,KBJI,47.510722,-94.934722,1391,-6,A
+King Abdulaziz Intl,"Jeddah",Saudi Arabia,JED,OEJN,21.679564,39.156536,48,3,U
+Elko Regional Airport,"Elko",United States,EKO,KEKO,40.8249,-115.792,5140,-8,A
+Rock Springs Sweetwater County Airport,"Rock Springs",United States,RKS,KRKS,41.5942,-109.065,6760,-7,A
+Mammoth Yosemite Airport,"Mammoth Lakes",United States,MMH,KMMH,37.624049,-118.837772,7128,-8,A
+Houghton County Memorial Airport,"Hancock",United States,CMX,KCMX,47.1684,-88.4891,1095,-5,A
+East Texas Rgnl,"Longview",United States,GGG,KGGG,32.384014,-94.711486,365,-6,A
+Cheyenne Rgnl Jerry Olson Fld,"Cheyenne",United States,CYS,KCYS,41.155722,-104.811839,6156,-7,A
+Pocatello Regional Airport,"Pocatello",United States,PIH,KPIH,42.9098,-112.596,4452,-7,A
+Chennai Intl,"Madras",India,MAA,VOMM,12.994414,80.180517,52,5.5,N
+Aberdeen Regional Airport,"Aberdeen",United States,ABR,KABR,45.4491,-98.4218,1302,-6,A
+Queretaro Intercontinental,"Queretaro",Mexico,QRO,MMQT,20.617289,-100.185658,6296,-6,S
+Barkley Regional Airport,"PADUCAH",United States,PAH,KPAH,37.0602875,-88.7729583,410,-6,A
+North Eleuthera,"North Eleuthera",Bahamas,ELH,MYEH,25.474861,-76.683489,13,-5,U
+Tinian Intl,"West Tinian",Northern Mariana Islands,TIQ,PGWT,14.999203,145.61935,271,10,U
+Kenmore Air Harbor Seaplane Base,"Seattle",United States,LKE,KW55,47.629,-122.339,14,-7,A
+Frank Pais Intl,"Holguin",Cuba,HOG,MUHG,20.785589,-76.315108,361,-5,U
+Chippewa Valley Regional Airport,"Eau Claire",United States,EAU,KEAU,44.8658,-91.4843,913,-6,A
+Casa De Campo Intl,"La Romana",Dominican Republic,LRM,MDLR,18.450711,-68.911833,240,-4,U
+Southeast Texas Rgnl,"Beaumont",United States,BPT,KBPT,29.950833,-94.020694,15,-6,A
+El Eden,"Armenia",Colombia,AXM,SKAR,4.452775,-75.766447,3990,-5,U
+St Johns Intl,"St. John's",Canada,YYT,CYYT,47.61861,-52.751945,461,-3.5,A
+Merle K Mudhole Smith,"Cordova",United States,CDV,PACV,60.491778,-145.477556,48,-9,A
+Tansonnhat Intl,"Ho Chi Minh City",Vietnam,SGN,VVTS,10.818797,106.651856,33,7,U
+Petersburg James A. Johnson,"Petersburg",United States,PSG,PAPG,56.801667,-132.945278,105,-9,A
+King Khaled Intl,"Riyadh",Saudi Arabia,RUH,OERK,24.95764,46.698776,2049,3,U
+General Heriberto Jara Intl,"Vera Cruz",Mexico,VER,MMVR,19.145931,-96.187267,90,-6,S
+Ignacio Agramonte Intl,"Camaguey",Cuba,CMW,MUCM,21.420428,-77.847433,413,-5,U
+Cairns Intl,"Cairns",Australia,CNS,YBCS,-16.885833,145.755278,10,10,N
+Key Field,"Meridian",United States,MEI,KMEI,32.332624,-88.751868,297,-6,A
+Le Lamentin,"Fort-de-france",Martinique,FDF,TFFF,14.591033,-61.003175,16,-4,U
+Melville Hall,"Dominica",Dominica,DOM,TDPD,15.547028,-61.3,73,-4,U
+New Chitose,"Sapporo",Japan,CTS,RJCC,42.7752,141.692283,82,9,U
+Aniak Airport,"Aniak",United States,ANI,PANI,61.5816,-159.543,88,-9,A
+Brainerd Lakes Rgnl,"Brainerd",United States,BRD,KBRD,46.398308,-94.138078,1226,-6,U
+Owensboro Daviess County Airport,"Owensboro",United States,OWB,KOWB,37.7401,-87.1668,406,-6,A
+Hermanos Serdan Intl,"Puebla",Mexico,PBC,MMPB,19.158144,-98.371447,7361,-6,S
+Greater Moncton Intl,"Moncton",Canada,YQM,CYQM,46.112221,-64.678611,232,-4,A
+Sloulin Fld Intl,"Williston",United States,ISN,KISN,48.177939,-103.642347,1982,-7,A
+Valdez Pioneer Fld,"Valdez",United States,VDZ,PAVD,61.133949,-146.248342,118,-9,A
+C P A Carlos Rovirosa Intl,"Villahermosa",Mexico,VSA,MMVA,17.997,-92.817361,46,-6,S
+Worcester Regional Airport,"Worcester",United States,ORH,KORH,42.2673,-71.8757,1009,-5,U
+Northern Maine Rgnl At Presque Isle,"Presque Isle",United States,PQI,KPQI,46.688958,-68.044797,534,-4,A
+Malaga,"Malaga",Spain,AGP,LEMG,36.6749,-4.499106,52,1,E
+Pierre Regional Airport,"Pierre",United States,PIR,KPIR,44.3827,-100.286,1742,-6,A
+Praia International Airport,"Praia, Santiago Island",Cape Verde,RAI,GVNP,14.9245,-23.4935,230,-1,U
+Hattiesburg Laurel Regional Airport,"Hattiesburg/Laurel",United States,PIB,KPIB,31.4671,-89.3371,298,-6,A
+Del Norte County Airport,"Crescent City",United States,CEC,KCEC,41.7802,-124.237,57,-8,A
+Sheridan County Airport,"Sheridan",United States,SHR,KSHR,44.7692,-106.98,4021,-7,A
+Riverton Regional,"Riverton WY",United States,RIW,KRIW,43.064167,-108.459722,5525,-7,A
+Chippewa County International Airport,"Sault Ste Marie",United States,CIU,KCIU,46.2508,-84.4724,800,-5,A
+Falls Intl,"International Falls",United States,INL,KINL,48.566186,-93.403067,1185,-6,A
+General Francisco Javier Mina Intl,"Tampico",Mexico,TAM,MMTM,22.29645,-97.865931,80,-6,S
+Faleolo Intl,"Faleolo",Samoa,APW,NSFA,-13.829969,-172.008336,58,-11,U
+Mason City Municipal,"Mason City",United States,MCW,KMCW,43.2247,-93.4067,1243,-5,A
+George F L Charles,"Castries",Saint Lucia,SLU,TLPC,14.020228,-60.992936,22,-4,U
+Del Rio Intl,"Del Rio",United States,DRT,KDRT,29.374208,-100.927158,1002,-6,A
+Four Corners Rgnl,"Farmington",United States,FMN,KFMN,36.74125,-108.229944,5506,-7,A
+Tupelo Regional Airport,"Tupelo",United States,TUP,KTUP,34.2681,-88.7699,346,-6,A
+Loreto Intl,"Loreto",Mexico,LTO,MMLT,25.989194,-111.348361,34,-7,S
+Unalakleet Airport,"Unalakleet",United States,UNK,PAUN,63.888333,-160.798889,21,-9,A
+Friday Harbor Airport,"Friday Harbor",United States,FRD,KFHR,48.521944,-123.024444,113,-8,A
+Sendai,"Sendai",Japan,SDJ,RJSS,38.139722,140.916944,15,9,U
+Pohnpei Intl,"Pohnpei",Micronesia,PNI,PTPN,6.9851,158.208989,10,11,U
+Muskegon County Airport,"Muskegon",United States,MKG,KMKG,43.1695,-86.2382,628,-5,A
+New Bedford Regional Airport,"New Bedford",United States,EWB,KEWB,41.6761,-70.9569,80,-5,A
+Rarotonga Intl,"Avarua",Cook Islands,RAR,NCRG,-21.202739,-159.805556,19,-10,U
+Bahrain Intl,"Bahrain",Bahrain,BAH,OBBI,26.270834,50.63361,6,3,U
+Greenbrier Valley Airport,"Lewisburg",United States,LWB,KLWB,37.858333,-80.399444,2302,-5,U
+Pueblo Mem,"Pueblo Memorial",United States,PUB,KPUB,38.289085,-104.496572,4726,-7,A
+Chuuk Intl,"Chuuk",Micronesia,TKK,PTKK,7.461869,151.843006,11,10,U
+Edward G Pitka Sr,"Galena",United States,GAL,PAGA,64.736178,-156.937417,152,-9,A
+Page Municipal Airport,"Page",United States,PGA,KPGA,36.9261,-111.4483,4316,-7,A
+Fresh Creek,"Andros Town",Bahamas,ASD,MYAF,24.698283,-77.795611,5,-5,U
+Block Island State Airport,"Block Island",United States,BID,KBID,41.168056,-71.577778,108,-5,A
+Ketchikan harbor Seaplane Base,"Ketchikan",United States,WFB,,55.344444,-131.663333,0,-9,A
+Hancock County - Bar Harbor,"Bar Harbor",United States,BHB,KBHB,44.4497689,-68.3615653,83,-5,A
+Kuala Lumpur Intl,"Kuala Lumpur",Malaysia,KUL,WMKK,2.745578,101.709917,69,8,U
+Chisholm Hibbing,"Hibbing",United States,HIB,KHIB,47.3866,-92.838994,1353,-6,A
+Purude University Airport,"Lafayette",United States,LAF,,40.4123056,-86.9368889,606,-5,U
+Inyokern Airport,"Inyokern",United States,IYK,KIYK,35.658889,-117.829444,2455,-8,A
+Luanda 4 De Fevereiro,"Luanda",Angola,LAD,FNLU,-8.858375,13.231178,243,1,N
+Provincetown Muni,"Provincetown",United States,PVC,KPVC,42.071945,-70.22139,9,-5,A
+City,"London",United Kingdom,LCY,EGLC,51.505278,0.055278,19,0,E
+Wrangell Airport,"Wrangell",United States,WRG,PAWG,56.4843,-132.37,44,-9,A
+Shenandoah Valley Regional Airport,"Weyers Cave",United States,SHD,KSHD,38.263889,-78.896389,1201,-5,A
+Hagerstown Regional Richard A Henson Field,"Hagerstown",United States,HGR,KHGR,39.7079,-77.7295,704,-5,A
+Xoxocotlan Intl,"Oaxaca",Mexico,OAX,MMOX,16.999906,-96.726639,4989,-6,S
+Dickinson Theodore Roosevelt Regional Airport,"Dickinson",United States,DIK,KDIK,46.7975,-102.801944,2592,-5,A
+Jinnah Intl,"Karachi",Pakistan,KHI,OPKC,24.906547,67.160797,100,5,U
+Morgantown Muni Walter L Bill Hart Fld,"Morgantown",United States,MGW,KMGW,39.642908,-79.916314,1248,-5,A
+Ciudad Del Carmen Intl,"Ciudad Del Carmen",Mexico,CME,MMCE,18.653739,-91.799017,10,-6,S
+Bahias De Huatulco Intl,"Bahias Dehuatulco",Mexico,HUX,MMBT,15.775317,-96.262572,464,-6,S
+St Marys Airport,"St Mary's",United States,KSM,PASM,62.0605,-163.302,311,-9,A
+Garden City Rgnl,"Garden City",United States,GCK,KGCK,37.927528,-100.724417,2891,-6,A
+General Manuel Marquez De Leon Intl,"La Paz",Mexico,LAP,MMLP,24.072694,-110.362475,69,-7,S
+Gustavus Airport,"Gustavus",United States,GST,PAGS,58.4253,-135.707,34,-9,A
+Hoonah Airport,"Hoonah",United States,HNH,PAOH,58.096111,-135.409722,19,-9,A
+Haines Airport,"Haines",United States,HNS,PAHN,59.2438,-135.524,15,-9,A
+Yakutat,"Yakutat",United States,YAK,PAYA,59.3012,-139.3937,33,-9,A
+Hiroshima,"Hiroshima",Japan,HIJ,RJOA,34.436111,132.919444,1088,9,U
+Emmonak Airport,"Emmonak",United States,EMK,PAEM,62.786111,-164.490833,13,-9,A
+Treasure Cay,"Treasure Cay",Bahamas,TCB,MYAT,26.745336,-77.391269,8,-5,U
+Weston Airport,"Leixlip",Ireland,WST,EIWT,53.351333,-6.4875,150,0,E
+Western Nebraska Regional Airport,"Scottsbluff",United States,BFF,KBFF,41.874,-103.596,3967,-7,A
+Netaji Subhash Chandra Bose Intl,"Calcutta",India,CCU,VECC,22.654739,88.446722,16,5.5,N
+Kearney Municipal Airport,"Kearney",United States,EAR,EAR,40.727,-99.0068,2131,-6,A
+Delta County Airport,"Escanaba",United States,ESC,KESC,45.722778,-87.093611,609,-5,A
+Telluride,"Telluride",United States,TEX,KTEX,37.953759,-107.90848,9078,-7,A
+Nnamdi Azikiwe Intl,"Abuja",Nigeria,ABV,DNAA,9.006792,7.263172,1123,1,N
+William R Fairchild International Airport,"Port Angeles",United States,CLM,KCLM,48.1202,-123.5,291,-8,A
+Cold Bay,"Cold Bay",United States,CDB,PACD,55.206061,-162.725436,96,-9,A
+Victoria Inner Harbour Airport,"Victoria",Canada,YWH,CYWH,48.422778,-123.3875,0,-8,A
+Antonio Maceo Intl,"Santiago De Cuba",Cuba,SCU,MUCU,19.969769,-75.835414,249,-5,U
+Marshall Islands Intl,"Majuro",Marshall Islands,MAJ,PKMJ,7.064758,171.272022,6,12,U
+Laramie Regional Airport,"Laramie",United States,LAR,KLAR,41.3121,-105.675,7284,-7,A
+Valencia,"Valencia",Spain,VLC,LEVC,39.489314,-0.481625,225,1,E
+Harrison Marion Regional Airport,"Clarksburg",United States,CKB,KCKB,39.2966,-80.2281,1217,-5,A
+Alpena County Regional Airport,"Alpena",United States,APN,KAPN,45.0781,-83.5603,689,-5,A
+Fort Dodge Rgnl,"Fort Dodge",United States,FOD,KFOD,42.5512,-94.191842,1157,-6,A
+Northwest Alabama Regional Airport,"Muscle Shoals",United States,MSL,KMSL,34.7453,-87.6102,550,-6,A
+Plan De Guadalupe Intl,"Saltillo",Mexico,SLW,MMIO,25.549497,-100.928669,4778,-6,S
+North Platte Regional Airport Lee Bird Field,"North Platte",United States,LBF,KLBF,41.1262,-100.684,2776,-6,A
+Skagway Airport,"Skagway",United States,SGY,PAGY,59.4601,-135.316,44,-9,A
+Hays Regional Airport,"Hays",United States,HYS,KHYS,38.8422,-99.2732,1998,-5,A
+John Murtha Johnstown-Cambria County Airport,"Johnstown",United States,JST,KJST,40.316111,-78.833889,2284,-5,A
+Ernest A Love Fld,"Prescott",United States,PRC,KPRC,34.654472,-112.419583,5045,-7,A
+Okayama,"Okayama",Japan,OKJ,RJOB,34.756944,133.855278,806,9,U
+Thunder Bay,"Thunder Bay",Canada,YQT,CYQT,48.371944,-89.323889,653,-5,A
+Fort Yukon,"Fort Yukon",United States,FYU,PFYU,66.571492,-145.250417,433,-9,A
+Lebanon Municipal Airport,"Lebanon",United States,LEB,KLEB,43.6261,-72.3042,603,-5,A
+Williamson Country Regional Airport,"Marion",United States,MWA,KMWA,37.7549569,-89.0110936,472,-5,A
+Pinto Martins Intl,"Fortaleza",Brazil,FOR,SBFZ,-3.776283,-38.532556,82,-3,S
+Watertown Regional Airport,"Watertown",United States,ATY,KATY,44.914,-97.1547,1748,-6,A
+Niigata,"Niigata",Japan,KIJ,RJSN,37.5711,139.0646,1,9,U
+Nottingham East Midlands,"East Midlands",United Kingdom,EMA,EGNX,52.831111,-1.328056,306,0,E
+Quincy Regional Baldwin Field,"Quincy",United States,UIN,KUIN,39.9427,-91.1946,769,-6,A
+Knox County Regional Airport,"Rockland",United States,RKD,KRKD,44.0601111,-69.0992303,56,-5,A
+Ford Airport,"Iron Mountain",United States,IMT,KIMT,45.8183611,-88.1145556,1182,-5,A
+Yuzhny,"Tashkent",Uzbekistan,TAS,UTTT,41.257861,69.281186,1417,5,U
+San Luis Valley Regional Airport,"Alamosa",United States,ALS,KALS,37.435,-105.866667,7539,-7,A
+Quinhagak Airport,"Quinhagak",United States,KWN,PAQH,59.755,-161.845278,42,-9,A
+Cortez Muni,"Cortez",United States,CEZ,KCEZ,37.303,-108.628056,5918,-7,A
+Durango Intl,"Durango",Mexico,DGO,MMDO,24.124194,-104.528014,6104,-6,S
+Lajes,"Lajes (terceira Island)",Portugal,TER,LPLA,38.761842,-27.090797,180,-1,E
+Mid Delta Regional Airport,"Greenville",United States,GLH,GLH,33.4829,-90.9856,131,-6,A
+Hooper Bay Airport,"Hooper Bay",United States,HPB,PAHP,61.5239,-166.147,7,-9,A
+Lancaster Airport,"Lancaster",United States,LNS,KLNS,40.1217,-76.2961,403,-5,A
+Palonegro,"Bucaramanga",Colombia,BGA,SKBG,7.1265,-73.184778,3897,-5,U
+Kipnuk Airport,"Kipnuk",United States,KPN,PAKI,59.933056,-164.030556,11,-9,A
+Yap Intl,"Yap",Micronesia,YAP,PTYA,9.498911,138.082497,91,10,U
+Chevak Airport,"Chevak",United States,VAK,PAVA,61.5338,-165.584,75,-9,A
+Kinston Regional Jetport,"Kinston",United States,ISO,KISO,35.331389,-77.608889,94,7,A
+Adirondack Regional Airport,"Saranac Lake",United States,SLK,KSLK,44.3853,-74.2062,1663,-5,A
+Laurence G Hanscom Fld,"Bedford",United States,BED,KBED,42.469953,-71.289031,133,-5,A
+Wallblake,"The Valley",Anguilla,AXA,TQPF,18.204834,-63.055084,127,-4,U
+Cedar City Rgnl,"Cedar City",United States,CDC,KCDC,37.700967,-113.098847,5622,-7,A
+Waynesville Rgnl Arpt At Forney Fld,"Fort Leonardwood",United States,TBN,KTBN,37.741631,-92.140736,1159,-6,A
+Rutland State Airport,"Rutland",United States,RUT,KRUT,43.5294,-72.9496,787,-5,A
+Jasionka,"Rzeszow",Poland,RZE,EPRZ,50.109958,22.019,675,1,E
+DuBois Regional Airport,"Du Bois",United States,DUJ,KDUJ,41.1783,-78.8987,1817,-5,A
+Mid-Ohio Valley Regional Airport,"PARKERSBURG",United States,PKB,KPKB,39.3451039,-81.4392031,858,-5,A
+McGrath Airport,"Mcgrath",United States,MCG,PAMC,62.9529,-155.606,338,-9,A
+Mountain Village Airport,"Mountain Village",United States,MOU,PAMO,62.0954,-163.682,337,-9,A
+Imperial Co,"Imperial",United States,IPL,KIPL,32.834219,-115.578744,-54,-8,A
+Newcastle,"Newcastle",United Kingdom,NCL,EGNT,55.0375,-1.691667,266,0,E
+Craig Seaplane Base,"Craig",United States,CGA,,55.478889,-133.147778,0,-9,A
+Point Hope Airport,"Point Hope",United States,PHO,PPHO,68.3488,-166.799,12,-9,A
+Victoria Regional Airport,"Victoria",United States,VCT,KVCT,28.8526,-96.9185,115,-6,A
+Toksook Bay Airport,"Toksook Bay",United States,OOK,PAOO,60.541389,-165.087222,59,-10,A
+Iliamna,"Iliamna",United States,ILI,PAIL,59.754356,-154.910961,186,-9,A
+Eastern Oregon Regional Airport,"Pendleton",United States,PDT,KPDT,45.695,-118.841389,1497,-7,A
+Bucholz Aaf,"Kwajalein",Marshall Islands,KWA,PKWA,8.720122,167.731661,9,12,U
+Selawik Airport,"Selawik",United States,WLK,PASK,66.6,-159.985833,17,-9,A
+Devils Lake Regional Airport,"Devils Lake",United States,DVL,KDVL,48.114444,-98.908611,1445,-6,A
+Liberal Muni,"Liberal",United States,LBL,KLBL,37.044222,-100.95986,2885,-6,A
+San Salvador,"Cockburn Town",Bahamas,ZSA,MYSM,24.063275,-74.523967,24,-5,U
+Rickenbacker Intl,"Columbus",United States,LCK,KLCK,39.813786,-82.927822,744,-5,A
+Jamestown Regional Airport,"Jamestown",United States,JMS,KJMS,46.9297,-98.6782,1498,-6,A
+Altoona Blair Co,"Altoona",United States,AOO,KAOO,40.296372,-78.320022,1504,-5,A
+Cape Girardeau Regional Airport,"Cape Girardeau",United States,CGI,KCGI,37.2253,-89.5708,342,-6,A
+Wainwright Airport,"Wainwright",United States,AIN,PAWI,70.638056,-159.994722,41,-9,A
+Yellowstone Airport,"West Yellowstone",United States,WYS,KWYS,44.688333,-111.1175,6644,-7,A
+Oxnard - Ventura County,"Oxnard",United States,OXR,KOXR,34.200833,-119.207222,15,-8,A
+Scammon Bay Airport,"Scammon Bay",United States,SCM,PACM,61.845278,-165.571389,14,-9,A
+Robert Curtis Memorial Airport,"Noorvik",United States,ORV,PFNO,66.8175,-161.022222,55,-9,A
+Vernal Regional Airport,"Vernal",United States,VEL,KVEL,40.440833,-109.51,5278,-7,A
+Capodichino,"Naples",Italy,NAP,LIRN,40.886033,14.290781,294,1,E
+Kongiganak Airport,"Kongiganak",United States,KKH,PADY,59.960833,-162.881111,30,-9,A
+Sand Point Airport,"Sand Point",United States,SDP,PASD,55.315,-160.523,21,-9,A
+Augusta State,"Augusta",United States,AUG,KAUG,44.320647,-69.797317,352,-5,A
+Palermo,"Palermo",Italy,PMO,LICJ,38.175958,13.091019,65,1,E
+Savoonga Airport,"Savoonga",United States,SVA,PASA,63.6864,-170.493,53,-9,A
+Eugenio Maria De Hostos,"Mayaguez",Puerto Rico,MAZ,TJMZ,18.255694,-67.148472,28,-4,U
+Kasigluk Airport,"Kasigluk",United States,KUK,PFKA,60.873333,-162.524444,40,-9,A
+Joplin Rgnl,"Joplin",United States,JLN,KJLN,37.151814,-94.498269,981,-6,A
+Metlakatla Seaplane Base,"Metakatla",United States,MTM,PAMM,55.131111,-131.578056,0,-9,A
+Noatak Airport,"Noatak",United States,WTK,PAWN,67.5661,-162.975,88,-9,A
+Anaktuvuk Pass Airport,"Anaktuvuk Pass",United States,AKP,PAKP,68.1336,-151.743,2103,-9,A
+Gambell Airport,"Gambell",United States,GAM,PAGM,63.7668,-171.733,27,-9,A
+Kwigillingok Airport,"Kwigillingok",United States,KWK,PAGG,59.876389,-163.168611,18,-9,A
+Chautauqua County-Jamestown,"Jamestown",United States,JHW,KJHW,42.153333,-79.258056,525,-5,A
+Pilot Station Airport,"Pilot Station",United States,PQS,,61.934444,-162.899444,305,-9,A
+Tuntutuliak Airport,"Tuntutuliak",United States,WTL,,60.335278,-162.666944,16,-9,A
+Chefornak Airport,"Chefornak",United States,CYF,PACK,60.149167,-164.285556,40,-9,A
+Governors Harbour,"Governor's Harbor",Bahamas,GHB,MYEM,25.284706,-76.331011,26,-5,U
+Orcas Island Airport,"Eastsound",United States,ESD,KORS,48.708056,-122.910556,31,-8,A
+Southern California Logistics,"Victorville",United States,VCV,KVCV,34.597453,-117.382997,2885,-8,A
+General Jose Maria Yanez Intl,"Guaymas",Mexico,GYM,MMGM,27.968983,-110.925169,59,-7,S
+Dodge City Regional Airport,"Dodge City",United States,DDC,KDDC,37.7634,-99.9656,2594,-6,A
+Kalskag Airport,"Kalskag",United States,KLG,PALG,61.5363,-160.341,55,-9,A
+Nulato Airport,"Nulato",United States,NUL,PANU,64.729444,-158.074167,399,-9,A
+Arnold Palmer Regional Airport,"Latrobe",United States,LBE,KLBE,40.2759,-79.4048,1185,-5,A
+Kotlik Airport,"Kotlik",United States,KOT,PFKO,63.030556,-163.532778,15,-9,A
+Pease International Tradeport,"Portsmouth",United States,PSM,KPSM,43.0779,-70.8233,100,-5,A
+Huslia Airport,"Huslia",United States,HSL,PAHL,65.697778,-156.351389,213,-9,A
+Athens Ben Epps Airport,"Athens",United States,AHN,KAHN,33.9486,-83.3263,808,-5,A
+Eek Airport,"Eek",United States,EEK,PAEE,60.213611,-162.043889,15,-9,A
+Buckland Airport,"Buckland",United States,BKC,PABL,65.981667,-161.149167,31,-9,A
+Kivalina Airport,"Kivalina",United States,KVL,PAVL,67.7362,-164.563,13,-9,A
+Manistee County-Blacker Airport,"Manistee",United States,MBL,KMBL,44.2725,-86.246944,621,-5,A
+Massena Intl Richards Fld,"Massena",United States,MSS,KMSS,44.935833,-74.845547,215,-5,A
+South Bimini,"Alice Town",Bahamas,BIM,MYBS,25.699881,-79.264656,10,-5,U
+Marshall Don Hunter Sr. Airport,"Marshall",United States,MLL,PADM,61.8646418,-162.026111,103,-9,A
+Sidney-Richland Municipal Airport,"Sidney",United States,SDY,KSDY,47.706944,-104.1925,1984,-7,A
+Shishmaref Airport,"Shishmaref",United States,SHH,PASH,66.2496,-166.089,12,-9,A
+Old Harbor Airport,"Old Harbor",United States,OLH,,57.218056,-153.269722,55,-9,A
+Kenmore Air Harbor Inc Seaplane Base,"Kenmore",United States,KEH,,47.7548,-122.259,14,-8,A
+Nuiqsut Airport,"Nuiqsut",United States,NUI,PAQT,70.21,-151.005556,38,-9,A
+St Paul Island,"St. Paul Island",United States,SNP,PASN,57.167333,-170.220444,63,-11,A
+Riga Intl,"Riga",Latvia,RIX,EVRA,56.923611,23.971111,34,2,E
+Tyonek Airport,"Tyonek",United States,TYE,,61.076667,-151.138056,110,-8,A
+Tanana Airport,"Tanana",United States,TAL,,65.179556,-152.075833,207,-9,A
+Russian Mission Airport,"Russian Mission",United States,RSH,PARS,61.775,-161.319444,51,-9,A
+Hamilton,"Hamilton",Canada,YHM,CYHM,43.173611,-79.935,780,-5,A
+Alakanuk Airport,"Alakanuk",United States,AUK,PAUK,62.68,-164.66,10,-9,A
+Roche Harbor Seaplane Base,"Roche Harbor",United States,RCE,,48.608056,-123.159722,0,-8,A
+Bob Baker Memorial Airport,"Kiana",United States,IAN,PAIK,66.975833,-160.436667,166,-9,A
+Teterboro,"Teterboro",United States,TEB,KTEB,40.850103,-74.060837,9,-5,A
+Kwethluk Airport,"Kwethluk",United States,KWT,PFKW,60.790278,-161.443611,30,-9,A
+Bradford Regional Airport,"Bradford",United States,BFD,KBFD,41.8031,-78.6401,2143,-5,A
+Watertown Intl,"Watertown",United States,ART,KART,43.991922,-76.021739,325,-5,A
+Barter Island Lrrs,"Barter Island",United States,BTI,PABA,70.133989,-143.581867,2,-9,A
+Willow Run,"Detroit",United States,YIP,KYIP,42.237928,-83.530408,716,-5,A
+Show Low Regional Airport,"Show Low",United States,SOW,KSOW,34.265556,-110.005556,6415,-7,A
+King Cove Airport,"King Cove",United States,KVC,PAVC,55.1163,-162.266,155,-9,A
+Tenerife Norte,"Tenerife",Spain,TFN,GCXO,28.482653,-16.341536,2073,0,E
+Canyonlands Field,"Moab",United States,CNY,KCNY,38.755,-109.754722,4555,-7,A
+Newport Municipal Airport,"Newport",United States,ONP,KNOP,44.580361,-124.057917,160,8,A
+Merrill Fld,"Anchorage",United States,MRI,PAMR,61.213544,-149.844447,137,-9,A
+Ouzinkie Airport,"Ouzinkie",United States,KOZ,,57.922876,-152.500511,55,-9,A
+Worland Municipal Airport,"Worland",United States,WRL,KWRL,43.9657,-107.951,4227,-7,A
+Angel Albino Corzo,"Tuxtla Gutierrez",Mexico,TGZ,MMTG,16.561822,-93.026081,1491,-6,S
+Nunapitchuk Airport,"Nunapitchuk",United States,NUP,,60.905833,-162.439167,12,-9,A
+Newtok Airport,"Newtok",United States,WWT,,60.939167,-164.641111,25,-10,U
+Stebbins Airport,"Stebbins",United States,WBB,,63.515833,-162.278056,14,-9,A
+Thorne Bay Seaplane Base,"Thorne Bay",United States,KTB,,55.688056,-132.536667,0,-9,A
+Chaklala,"Islamabad",Pakistan,ISB,OPRN,33.616653,73.099233,1668,5,U
+Larsen Bay Airport,"Larsen Bay",United States,KLN,PALB,57.535,-153.976667,87,-9,A
+Southeast Iowa Regional Airport,"Burlington",United States,BRL,KBRL,40.7832,-91.1255,698,-6,A
+Venetie Airport,"Venetie",United States,VEE,PAVE,67.008611,-146.366389,574,-9,A
+Allakaket Airport,"Allakaket",United States,AET,PFAL,66.5519,-152.6222,441,-8,A
+Thief River Falls,"Thief River Falls",United States,TVF,KTVF,48.065556,-96.185,1116,-6,A
+Atqasuk Edward Burnell Sr Memorial Airport,"Atqasuk",United States,ATK,PATQ,70.4673,-157.436,96,-9,A
+Cavern City Air Terminal,"Carlsbad",United States,CNM,KCNM,32.337472,-104.263278,3295,-7,A
+La Nubia,"Manizales",Colombia,MZL,SKMZ,5.029597,-75.464708,6871,-5,U
+Elim Airport,"Elim",United States,ELI,PFEL,64.615,-162.270556,162,-9,A
+March Arb,"Riverside",United States,RIV,KRIV,33.880711,-117.259453,1535,-8,A
+St. Michael Airport,"St. Michael",United States,SMK,PAMK,63.49,-162.110278,98,-9,A
+Kaltag Airport,"Kaltag",United States,KAL,PAKV,64.3191,-158.741,187,-9,A
+Tuscaloosa Rgnl,"Tuscaloosa AL",United States,TCL,KTCL,33.220627,-87.611403,170,-6,A
+Hollis Seaplane Base,"Hollis",United States,HYL,,55.481667,-132.646111,0,-9,A
+Forbes Fld,"Topeka",United States,FOE,KFOE,38.950944,-95.663611,1078,-6,A
+Koyuk Alfred Adams Airport,"Koyuk",United States,KKA,PAKK,64.939444,-161.154167,154,-9,A
+Tuluksak Airport,"Tuluksak",United States,TLT,,61.096944,-160.969444,30,-9,A
+Kosrae,"Kosrae",Micronesia,KSA,PTSA,5.356975,162.958386,11,12,U
+Togiak Airport,"Togiak Village",United States,TOG,PATG,59.0528,-160.397,21,-9,A
+Clovis Muni,"Clovis",United States,CVN,KCVN,34.425139,-103.079278,4216,-6,A
+Tununak Airport,"Tununak",United States,TNK,,60.575556,-165.271667,14,-10,A
+Shungnak Airport,"Shungnak",United States,SHG,PAGH,66.888056,-157.1625,197,-9,A
+Decatur,"Decatur",United States,DEC,KDEC,39.834564,-88.865689,682,-6,A
+Raleigh County Memorial Airport,"Beckley",United States,BKW,KBKW,37.7873,-81.1242,2504,-5,A
+Port Lions Airport,"Port Lions",United States,ORI,,57.885278,-152.846111,52,-9,A
+Camilo Daza,"Cucuta",Colombia,CUC,SKCC,7.927567,-72.511547,1096,-5,U
+Ogdensburg Intl,"Ogdensburg",United States,OGS,KOGS,44.681854,-75.4655,297,-5,A
+Huron Rgnl,"Huron",United States,HON,KHON,44.3852,-98.228542,1289,-6,A
+Shaktoolik Airport,"Shaktoolik",United States,SKK,PFSH,64.371111,-161.223889,24,-9,A
+Ambler Airport,"Ambler",United States,ABL,PAFM,67.106389,-157.8575,334,-9,A
+Camp Mabry Austin City,"Austin TX",United States,ATT,KATT,30.31666,-97.7666,0,-6,A
+Arctic Village Airport,"Arctic Village",United States,ARC,PARC,68.1147,-145.579,2092,-9,A
+Nightmute Airport,"Nightmute",United States,NME,PAGT,60.471111,-164.700833,4,-10,A
+Mc Kellar Sipes Rgnl,"Jackson",United States,MKL,KMKL,35.599889,-88.915611,434,-6,A
+Saint Barthelemy,"Gustavia",France,SBH,TFFJ,17.9023,-62.8324,50,-4,E
+Chadron Municipal Airport,"Chadron",United States,CDR,KCDR,42.8375,-103.095556,3297,-7,A
+Adak Airport,"Adak Island",United States,ADK,PADK,51.878,-176.646,18,-10,A
+Merced Municipal Airport,"Merced",United States,MCE,KMCE,37.284722,-120.513889,156,-8,A
+McCook Regional Airport,"McCook",United States,MCK,KMCK,40.206389,-100.592222,2583,-6,A
+Westsound Seaplane Base,"Westsound",United States,WSX,,48.617778,-122.952778,0,-8,A
+Charlottetown,"Charlottetown",Canada,YYG,CYYG,46.290001,-63.121111,160,-4,A
+Point Lay Lrrs,"Point Lay",United States,PIZ,PPIZ,69.732875,-163.005342,25,-9,A
+Brevig Mission Airport,"Brevig Mission",United States,KTS,PFKT,65.331389,-166.465833,35,-9,A
+Kirksville Regional Airport,"Kirksville",United States,IRK,KIRK,40.0935,-92.5449,966,-6,A
+Ruby Airport,"Ruby",United States,RBY,PARY,64.7272,-155.47,653,-9,A
+Salina Municipal Airport,"Salina",United States,SLN,KSLN,38.791,-97.6522,1288,-6,A
+Visalia Municipal Airport,"Visalia",United States,VIS,KVIS,36.318611,-119.392778,295,-8,A
+Golovin Airport,"Golovin",United States,GLV,PAGL,64.550556,-163.007222,59,-9,A
+Reading Regional Carl A Spaatz Field,"Reading",United States,RDG,KRDG,40.3785,-75.9652,344,-5,A
+Franklin,"Franklin",United States,FKL,KFKL,41.377874,-79.860362,1540,-5,A
+Monrovia Roberts Intl,"Monrovia",Liberia,ROB,GLRB,6.233789,-10.362311,31,0,N
+Grant Co Intl,"Grant County Airport",United States,MWH,KMWH,47.207708,-119.32019,1185,-8,A
+Gerrard Smith Intl,"Cayman Barac",Cayman Islands,CYB,MWCB,19.686981,-79.882789,8,-5,U
+Boone Co,"Harrison",United States,HRO,KHRO,36.261519,-93.154728,1365,-6,A
+Akiak Airport,"Akiak",United States,AKI,PFAK,60.902778,-161.230556,30,-9,A
+Bettles,"Bettles",United States,BTT,PABT,66.913944,-151.529056,644,-9,A
+Stansted,"London",United Kingdom,STN,EGSS,51.885,0.235,348,0,E
+Jaime Gonzalez,"Cienfuegos",Cuba,CFG,MUCF,22.15,-80.414167,102,-5,U
+Goodnews Airport,"Goodnews Bay",United States,GNU,,59.1175,-161.5775,15,-10,A
+Andrews Afb,"Camp Springs",United States,ADW,KADW,38.810806,-76.867028,280,-5,A
+Smith Reynolds,"Winston-salem",United States,INT,KINT,36.133722,-80.222,969,-5,A
+Biggs Aaf,"El Paso",United States,BIF,KBIF,31.849528,-106.380039,3948,-7,A
+Mekoryuk Airport,"Mekoryuk",United States,MYU,PAMY,60.3714,-166.271,48,-9,A
+Grant County Airport,"Silver City",United States,SVC,SVC,32.6365,-108.156,5446,-7,A
+Pope Afb,"Fayetteville",United States,POB,KPOB,35.170883,-79.014472,217,-5,A
+Alliance Municipal Airport,"Alliance",United States,AIA,KAIA,42.053333,-102.803889,3931,-7,A
+White Mountain Airport,"White Mountain",United States,WMO,PAWM,64.689167,-163.412778,267,-9,A
+Keesler Afb,"Biloxi",United States,BIX,KBIX,30.410425,-88.924433,33,-6,A
+Spirit Of St Louis,"Null",United States,SUS,KSUS,38.662119,-90.652044,463,-7,A
+Angoon Seaplane Base,"Angoon",United States,AGN,PAGN,57.503611,-134.585,0,-9,A
+Westover Arb Metropolitan,"Chicopee Falls",United States,CEF,KCEF,42.194014,-72.534783,241,-5,A
+Kake Seaplane Base,"Kake",United States,KAE,,56.973056,-133.945556,0,-9,A
+Wokal Field Glasgow International Airport,"Glasgow",United States,GGW,KGGW,48.2125,-106.615,2296,-7,A
+Middle Georgia Rgnl,"Macon",United States,MCN,KMCN,32.69285,-83.649211,354,-5,A
+Sheldon Point Airport,"Nunam Iqua",United States,SXP,,62.520556,-164.847778,12,-9,A
+Platinum,"Port Moller",United States,PTU,PAPM,59.011356,-161.819664,15,-9,A
+Begishevo,"Nizhnekamsk",Russia,NBW,UWKE,55.34,52.06,50,4,N
+Koyukuk Airport,"Koyukuk",United States,KYU,PFKU,64.875833,-157.730556,149,-9,A
+Crown Point,"Scarborough",Trinidad and Tobago,TAB,TTCP,11.149658,-60.832194,38,-4,U
+Wales Airport,"Wales",United States,WAA,PAIW,65.6225,-168.095,22,-9,A
+Egegik Airport,"Egegik",United States,EGX,PAII,58.185556,-157.375556,92,-9,A
+South Arkansas Rgnl At Goodwin Fld,"El Dorado",United States,ELD,KELD,33.220972,-92.813278,277,-6,A
+Kobuk Airport,"Kobuk",United States,OBU,PAOB,66.912222,-156.897222,137,-9,A
+Saint Cloud Regional Airport,"Saint Cloud",United States,STC,KSTC,45.546556,-94.059889,1031,-6,A
+Hughes Airport,"Hughes",United States,HUS,PAHU,66.039167,-154.264722,299,-9,A
+Monroe County Airport,"Bloomington",United States,BMG,KBMG,39.1460208,-86.6166805,846,-4,A
+Teller Airport,"Teller",United States,TLA,PATE,65.240278,-166.339444,294,-9,A
+Akhiok Airport,"Akhiok",United States,AKK,PAKH,56.938611,-154.1825,44,-9,A
+Cherry Point Mcas,"Cherry Point",United States,NKT,KNKT,34.900872,-76.880733,29,-5,A
+Astoria Regional Airport,"Astoria",United States,AST,KAST,46.157972,-123.878694,15,-8,A
+Akutan Seaplane Base,"Akutan",United States,KQA,KQA,54.1325,-165.785,0,-9,A
+Mc Chord Afb,"Tacoma",United States,TCM,KTCM,47.137678,-122.476475,322,-8,A
+Holy Cross Airport,"Holy Cross",United States,HCR,PAHC,62.1883,-159.775,70,-9,A
+Gary Chicago International Airport,"Gary",United States,GYY,KGYY,41.6163,-87.4128,591,-6,U
+Downtown,"Kansas City",United States,MKC,KMKC,39.1275,-94.598889,759,-6,A
+Griffiss Afld,"Rome",United States,RME,KRME,43.2338,-75.407033,504,-5,A
+Gogebic Iron County Airport,"Ironwood",United States,IWD,,46.5274747,-90.1313967,1230,-6,U
+Frank Wiley Field,"Miles City",United States,MLS,KMLS,46.428,-105.886,2630,-7,A
+General Abelardo L Rodriguez Intl,"Tijuana",Mexico,TIJ,MMTJ,32.541064,-116.970158,489,-8,S
+Grayling Airport,"Grayling",United States,KGX,,62.894444,-160.065,99,-9,A
+Beaver Airport,"Beaver",United States,WBQ,PAWB,66.362222,-147.406667,359,-9,A
+Lopez Island Airport,"Lopez",United States,LPS,S31,48.4839,-122.938,209,-8,A
+Kingman Airport,"Kingman",United States,IGM,IGM,35.2595,-113.938,3449,-7,A
+Port Heiden Airport,"Port Heiden",United States,PTH,PAPH,56.9591,-158.633,95,-9,A
+Ellington Fld,"Houston",United States,EFD,KEFD,29.607333,-95.15875,32,-6,A
+Culebra Airport,"Culebra Island",Puerto Rico,CPX,TJCP,18.3127,-65.3034,12,-4,U
+Drake Fld,"Fayetteville",United States,FYV,KFYV,36.005094,-94.170059,1251,-6,A
+Manokotak Airport,"Manokotak",United States,KMO,PAMB,58.990278,-159.05,51,-9,A
+St Hubert,"Montreal",Canada,YHU,CYHU,45.5175,-73.416944,90,-5,A
+Havre City Co,"Havre",United States,HVR,KHVR,48.542983,-109.762342,2590,-7,A
+Kalaupapa Airport,"Molokai",United States,LUP,PHLU,21.211,-156.974,24,-10,A
+Simon Bolivar,"Santa Marta",Colombia,SMR,SKSM,11.11965,-74.230647,22,-5,U
+Riviere Rouge - Mont-Tremblant International Inc. Airport,"Mont-Tremblant",Canada,YTM,CYFJ,46.409444,-74.78,827,-5,A
+Logan-Cache,"Logan",United States,LGU,KLGU,41.791,-111.852,4457,-7,A
+Hunter Aaf,"Hunter Aaf",United States,SVN,KSVN,32.01,-81.145683,42,-5,A
+Rosario Seaplane Base,"Rosario",United States,RSJ,,48.645556,-122.868056,0,-8,A
+Provo Municipal Airport,"Provo",United States,PVU,KPVU,40.21805555,-111.72222222,4497,-6,A
+Toyama,"Toyama",Japan,TOY,RJNT,36.648333,137.1875,95,9,U
+Anvik Airport,"Anvik",United States,ANV,PANV,62.6467,-160.191,309,-9,A
+Pilot Point Airport,"Pilot Point",United States,PIP,PAPN,57.585393,-157.571944,57,-9,A
+New Stuyahok Airport,"New Stuyahok",United States,KNW,PANW,59.4499,-157.328,302,-9,A
+Ladd Aaf,"Fort Wainwright",United States,FBK,PAFB,64.8375,-147.614444,454,-9,A
+Chignik Lake Airport,"Chignik Lake",United States,KCQ,,56.255,-158.775278,50,-9,A
+Bowling Green-Warren County Regional Airport,"Bowling Green",United States,BWG,KBWG,36.9645278,-86.4196667,547,-5,A
+Bournemouth,"Bournemouth",United Kingdom,BOH,EGHH,50.78,-1.8425,38,0,E
+Memorial Field,"Hot Springs",United States,HOT,KHOT,34.478,-93.0962,540,-6,A
+Chalkyitsik Airport,"Chalkyitsik",United States,CIK,PACI,66.645,-143.74,544,-9,A
+Akureyri,"Akureyri",Iceland,AEY,BIAR,65.659994,-18.072703,6,0,N
+Eagle Airport,"Eagle",United States,EAA,PAEG,64.778056,-141.149722,908,-9,A
+Cardiff,"Cardiff",United Kingdom,CWL,EGFF,51.396667,-3.343333,220,0,E
+Canadian Rockies Intl,"Cranbrook",Canada,YXC,CYXC,49.612222,-115.781944,3084,-7,A
+Shageluk Airport,"Shageluk",United States,SHX,PAHX,62.692222,-159.569167,79,-9,A
+New Castle,"Wilmington",United States,ILG,KILG,39.678722,-75.606528,79,-5,A
+Cincinnati Muni Lunken Fld,"Cincinnati",United States,LUK,KLUK,39.103333,-84.418611,483,-5,A
+Gustavo Rojas Pinilla,"San Andres Island",Colombia,ADZ,SKSP,12.583594,-81.711192,19,-5,U
+Fort Worth Meacham Intl,"Fort Worth",United States,FTW,KFTW,32.819778,-97.362444,710,-6,A
+Saint Exupery,"Lyon",France,LYS,LFLL,45.726387,5.090833,821,1,E
+Turku,"Turku",Finland,TKU,EFTU,60.514142,22.262808,161,2,E
+Pelican Seaplane Base,"Pelican",United States,PEC,,57.955278,-136.236389,0,-9,A
+Lewistown Municipal Airport,"Lewistown",United States,LWT,KLWT,47.0493,-109.467,4170,-7,A
+Los Garzones,"Monteria",Colombia,MTR,SKMR,8.823744,-75.825831,36,-5,U
+St. George Airport,"St. George",United States,STG,,56.577222,-169.663611,125,-9,A
+Tenakee Seaplane Base,"Tenakee Springs",United States,TKE,,57.779722,-135.218333,0,-9,A
+Chignik Lagoon Airport,"Chignik Lagoon",United States,KCL,,56.311111,-158.534167,25,-9,A
+Prospect Creek Airport,"Prospect Creek",United States,PPC,PAPR,66.814167,-150.643611,1095,-9,A
+Nellis Afb,"Las Vegas",United States,LSV,KLSV,36.236197,-115.034253,1870,-8,A
+Anacortes Airport,"Anacortes",United States,OTS,,48.498889,-122.6625,241,-8,A
+LM Clayton Airport,"Wolf Point",United States,OLF,KOLF,48.094444,-105.575,1986,-7,A
+Komatsu,"Kanazawa",Japan,KMQ,RJNK,36.394611,136.406544,36,9,U
+Crooked Creek Airport,"Crooked Creek",United States,CKD,,61.867778,-158.135,178,-9,A
+Lourdes,"Tarbes",France,LDE,LFBT,43.178675,-0.006439,1260,1,E
+Chuathbaluk Airport,"Chuathbaluk",United States,CHU,PACH,61.579167,-159.215556,243,-9,A
+Perryville Airport,"Perryville",United States,KPV,PAPE,55.906667,-159.160833,29,-9,A
+Leeds Bradford,"Leeds",United Kingdom,LBA,EGNM,53.865897,-1.660569,681,0,E
+Koliganek Airport,"Koliganek",United States,KGK,PAJZ,59.726667,-157.259444,269,-9,A
+Jacksonville Nas,"Jacksonville",United States,NIP,KNIP,30.235834,-81.680556,22,-5,A
+Shaw Afb,"Sumter",United States,SSC,KSSC,33.972719,-80.470564,242,-5,A
+Mc Guire Afb,"Wrightstown",United States,WRI,KWRI,40.015556,-74.591667,131,-5,A
+Provence,"Marseille",France,MRS,LFML,43.435555,5.213611,74,1,E
+Trenton Mercer,"Trenton",United States,TTN,KTTN,40.276692,-74.813469,213,-5,A
+Hyakuri,"Ibaraki",Japan,IBR,RJAH,36.181083,140.415444,105,9,U
+Merignac,"Bordeaux",France,BOD,LFBD,44.828335,-0.715556,162,1,E
+Frankfurt Hahn,"Hahn",Germany,HHN,EDFH,49.948672,7.263892,1649,1,E
+Karuluk Airport,"Karluk",United States,KYK,PAKY,57.566944,-154.450278,137,-9,A
+Scott Afb Midamerica,"Belleville",United States,BLV,KBLV,38.545178,-89.835183,459,-6,A
+Dawson Community Airport,"Glendive",United States,GDV,KGDV,47.138611,-104.807222,749,-7,A
+Prestwick,"Prestwick",United Kingdom,PIK,EGPK,55.509444,-4.586667,65,0,E
+Delaware County Airport,"Muncie",United States,MIE,,40.2424722,-85.39575,937,-5,U
+Nelson Lagoon,"Nelson Lagoon",United States,NLG,PAOU,56.0075,-161.160278,14,-9,A
+Whitehorse Intl,"Whitehorse",Canada,YXY,CYXY,60.709553,-135.067269,2317,-8,A
+Christmas Island,"Kiritimati",Kiribati,CXI,PLCH,1.986161,-157.349778,5,-12,U
+Terre Haute Intl Hulman Fld,"Terre Haute",United States,HUF,KHUF,39.451464,-87.307561,589,-5,A
+Port Moller Airport,"Cold Bay",United States,PML,PAAL,56.006111,-160.560833,20,-9,A
+Jonesboro Muni,"Jonesboro",United States,JBR,KJBR,35.831708,-90.646417,262,-6,A
+Nondalton Airport,"Nondalton",United States,NNL,PANO,59.966944,-154.851667,262,-9,A
+Gander Intl,"Gander",Canada,YQX,CYQX,48.936944,-54.568056,496,-4,A
+Augusto Severo,"Natal",Brazil,NAT,SBNT,-5.911417,-35.247717,169,-3,S
+Campbell Aaf,"Hopkinsville",United States,HOP,KHOP,36.668567,-87.496183,573,-6,A
+Samaná El Catey International Airport,"Samana",Dominican Republic,AZS,MDCY,19.267,-69.742,30,-4,U
+Igiugig Airport,"Igiugig",United States,IGG,PAIG,59.324,-155.902,90,-9,A
+Volk Fld,"Camp Douglas",United States,VOK,KVOK,43.938956,-90.253433,912,-6,A
+Grande Prairie,"Grande Prairie",Canada,YQU,CYQU,55.179722,-118.885,2195,-7,A
+Nikolai Airport,"Nikolai",United States,NIB,PAFS,63.010833,-154.383889,427,-9,A
+Levelock Airport,"Levelock",United States,KLL,,59.128056,-156.858611,39,-9,A
+Alamogordo White Sands Regional Airport,"Alamogordo",United States,ALM,KALM,32.8399,-105.991,4200,-7,A
+Goose Bay,"Goose Bay",Canada,YYR,CYYR,53.319168,-60.425833,160,-4,A
+Anderson Rgnl,"Andersen",United States,AND,KAND,34.494583,-82.709389,782,-5,A
+Sleetmute Airport,"Sleetmute",United States,SLQ,PASL,61.700566,-157.165833,190,-9,A
+Birch Creek Airport,"Brich Creek",United States,KBC,,66.256708,-145.815319,450,-9,A
+Takamatsu,"Takamatsu",Japan,TAK,RJOT,34.214167,134.015556,607,9,U
+Kumamoto,"Kumamoto",Japan,KMJ,RJFT,32.837319,130.85505,642,9,U
+Eielson Afb,"Fairbanks",United States,EIL,PAEI,64.665667,-147.1015,548,-9,A
+Tyndall Afb,"Panama City",United States,PAM,KPAM,30.069567,-85.575417,17,-6,A
+Antonio Narino,"Pasto",Colombia,PSO,SKPS,1.396247,-77.291478,5951,-5,U
+Alfonso Lopez Pumarejo,"Valledupar",Colombia,VUP,SKVP,10.435042,-73.249506,456,-5,U
+False Pass Airport,"False Pass",United States,KFP,PAKF,54.8475,-163.410278,20,-9,A
+Lea Co Rgnl,"Hobbs",United States,HOB,KHOB,32.687528,-103.217028,3661,-7,A
+Twin Hills Airport,"Twin Hills",United States,TWA,,59.074444,-160.275,82,-9,A
+Bremerton National,"Bremerton",United States,PWT,KPWT,47.490244,-122.764814,444,-8,A
+Nanaimo Harbour Water Airport,"Nanaimo",Canada,ZNA,CAC8,49.183333,-123.95,0,-8,A
+Circle City Airport,"Circle",United States,IRC,PACR,65.827778,-144.076111,613,-9,A
+Elfin Cove Seaplane Base,"Elfin Cove",United States,ELV,PAEL,58.195278,-136.3475,0,-9,A
+Atka Airport,"Atka",United States,AKB,PAAK,52.220278,-174.206389,56,-9,A
+South Naknek Airport,"South Naknek",United States,WSN,PFWS,58.702222,-157.0025,162,-9,A
+Hickory Rgnl,"Hickory",United States,HKY,KHKY,35.741147,-81.38955,1189,-5,A
+Snohomish Co,"Everett",United States,PAE,KPAE,47.906342,-122.281564,606,-8,A
+Mobile Downtown,"Mobile",United States,BFM,KBFM,30.626783,-88.068092,26,-6,A
+Barnes Municipal,"Westfield",United States,BAF,KBAF,42.1579472,-72.715875,270,-4,A
+Coldfoot Airport,"Coldfoot",United States,CXF,,67.251389,-150.176111,1014,-9,A
+St Mawgan,"Newquai",United Kingdom,NQY,EGDG,50.440558,-4.995408,390,0,E
+Pau Pyrenees,"Pau",France,PUF,LFBP,43.38,-0.418611,616,1,E
+Hill Afb,"Ogden",United States,HIF,KHIF,41.123939,-111.973039,4789,-7,A
+North Island Nas,"San Diego",United States,NZY,KNZY,32.699219,-117.21531,26,-8,A
+Ekwok Airport,"Ekwok",United States,KEK,,59.356944,-157.471111,135,-9,A
+Norfolk Ns,"Norfolk",United States,NGU,KNGU,36.937644,-76.289289,15,-5,A
+Osan Ab,"Osan",South Korea,OSN,RKSO,37.090617,127.029594,40,9,U
+Vance Winkworth Amory International Airport,"Charlestown",Saint Kitts and Nevis,NEV,TKPN,17.205678,-62.589869,14,-4,U
+Fort Worth Alliance Airport,"Fort Worth",United States,AFW,KAFW,32.987778,-97.318889,722,-6,A
+Tampere Pirkkala,"Tampere",Finland,TMP,EFTP,61.414147,23.604392,390,2,E
+Iwo Jima,"Iwojima",Japan,IWO,RJAW,24.784,141.322722,384,10,U
+Ely Airport,"Ely",United States,ELY,KELY,39.299722,-114.841944,6259,-8,A
+Amilcar Cabral Intl,"Amilcar Cabral",Cape Verde,SID,GVAC,16.741389,-22.949444,177,-1,U
+Powell River Airport,"Powell River",Canada,YPW,CYPW,49.8342,-124.5,425,-8,A
+Perales,"Ibague",Colombia,IBE,SKIB,4.421608,-75.1333,2999,-5,U
+Benito Salas,"Neiva",Colombia,NVA,SKNV,2.95015,-75.294,1464,-5,U
+Ugolny Airport,"Anadyr",Russia,DYR,UHMA,64.73495,177.741483,194,12,N
+Hakodate,"Hakodate",Japan,HKD,RJCH,41.77,140.821944,151,9,U
+Stony River 2 Airport,"Stony River",United States,SRV,,61.7875,-156.591111,230,-9,A
+Rampart Airport,"Rampart",United States,RMP,,65.507778,-150.140833,302,-9,A
+Ambrosio L V Taravella,"Cordoba",Argentina,COR,SACO,-31.323619,-64.207953,1604,-3,N
+Dawson City,"Dawson",Canada,YDA,CYDA,64.043056,-139.127778,1215,-8,A
+Macdill Afb,"Tampa",United States,MCF,KMCF,27.849339,-82.521214,14,-5,A
+Minto Airport,"Minto",United States,MNT,,65.143611,-149.37,460,-9,A
+Travis Afb,"Fairfield",United States,SUU,KSUU,38.262692,-121.927464,62,-8,A
+Lesquin,"Lille",France,LIL,LFQQ,50.561942,3.089444,157,1,E
+Cape Lisburne Lrrs,"Cape Lisburne",United States,LUR,PALU,68.875133,-166.110022,12,-9,A
+Dover Afb,"Dover",United States,DOV,KDOV,39.129539,-75.465958,28,-5,A
+Stephenville,"Stephenville",Canada,YJT,CYJT,48.544167,-58.549999,80,-4,A
+Le Bourget,"Paris",France,LBG,LFPB,48.969444,2.441389,218,1,E
+Pensacola Nas,"Pensacola",United States,NPA,KNPA,30.352656,-87.318647,28,-6,A
+Nikolski Air Station,"Nikolski",United States,IKO,PAKO,52.941667,-168.848889,77,-9,A
+Tin City LRRS Airport,"Tin City",United States,TNC,PATC,65.563056,-167.921667,269,-9,A
+Pyrzowice,"Katowice",Poland,KTW,EPKT,50.474253,19.080019,995,1,E
+Anniston Metro,"Anniston",United States,ANB,KANB,33.588167,-85.858111,612,-6,A
+Palmer Muni,"Palmer",United States,PAQ,PAAQ,61.594914,-149.088711,242,-9,A
+Lawson Aaf,"Fort Benning",United States,LSF,KLSF,32.337322,-84.991283,232,-5,A
+Eareckson As,"Shemya",United States,SYA,PASY,52.712275,174.11362,98,-10,A
+Davis Monthan Afb,"Tucson",United States,DMA,KDMA,32.166467,-110.883144,2704,-7,A
+Kochi,"Kochi",Japan,KCZ,RJOK,33.546111,133.669444,42,9,U
+Takotna Airport,"Takotna",United States,TCT,,62.971944,-156.082778,825,-9,A
+Campbell River,"Campbell River",Canada,YBL,CYBL,49.950832,-125.270833,346,-8,A
+Cape Newenham Lrrs,"Cape Newenham",United States,EHM,PAEH,58.646428,-162.062778,541,-9,A
+El Centro Naf,"El Centro",United States,NJK,KNJK,32.829222,-115.671667,-42,-8,A
+Pedro Bay Airport,"Pedro Bay",United States,PDB,,59.782222,-154.1325,45,-9,A
+Indian Mountain Lrrs,"Indian Mountains",United States,UTO,PAIM,65.992794,-153.704289,1220,-9,A
+Luxembourg,"Luxemburg",Luxembourg,LUX,ELLX,49.626575,6.211517,1234,1,E
+Langley Afb,"Hampton",United States,LFI,KLFI,37.082881,-76.360547,11,-5,A
+Luton,"London",United Kingdom,LTN,EGGW,51.874722,-0.368333,526,0,E
+Culiacan Intl,"Culiacan",Mexico,CUL,MMCL,24.764547,-107.474717,108,-7,S
+Point Mugu Nas,"Point Mugu",United States,NTD,KNTD,34.120285,-119.12094,13,-8,A
+Obihiro,"Obihiro",Japan,OBO,RJCB,42.733333,143.217222,505,9,U
+Las Cruces Intl,"Las Cruces",United States,LRU,KLRU,32.289417,-106.921972,4456,-7,A
+Offutt Afb,"Omaha",United States,OFF,KOFF,41.118332,-95.912511,1052,-6,A
+Cape Romanzof Lrrs,"Cape Romanzof",United States,CZF,PACZ,61.780297,-166.038747,457,-9,A
+Barksdale Afb,"Shreveport",United States,BAD,KBAD,32.50182,-93.662674,166,-6,A
+Red Devil Airport,"Red Devil",United States,RDV,,61.788056,-157.350278,174,-9,A
+Brown Field Municipal Airport,"San Diego",United States,SDM,KSDM,32.5722722,-116.9801611,526,-7,A
+Elmendorf Afb,"Anchorage",United States,EDF,PAED,61.250986,-149.806503,212,-9,A
+Coronel Francisco Secada Vignetta Intl,"Iquitos",Peru,IQT,SPQT,-3.784739,-73.308806,306,-5,U
+Matsuyama,"Matsuyama",Japan,MYJ,RJOM,33.827222,132.699722,25,9,U
+Mojave,"Mojave",United States,MHV,KMHV,35.059364,-118.151856,2791,-8,A
+Midway Atoll,"Midway",Midway Islands,MDY,PMDY,28.201725,-177.380636,13,-11,U
+Leipzig Halle,"Leipzig",Germany,LEJ,EDDP,51.432447,12.241633,465,1,E
+Port Clarence Coast Guard Station,"Port Clarence",United States,KPC,PAPC,65.2537,-166.859,10,-9,A
+Juan Gualberto Gomez Intl,"Varadero",Cuba,VRA,MUVR,23.034445,-81.435278,210,-5,U
+Landvetter,"Gothenborg",Sweden,GOT,ESGG,57.662836,12.279819,506,1,E
+Mackinac Island Airport,"Mackinac Island",United States,MCD,,45.8649344,-84.637344,740,-5,U
+Tenerife Sur,"Tenerife",Spain,TFS,GCTS,28.044475,-16.572489,209,0,E
+Diego Aracena Intl,"Iquique",Chile,IQQ,SCDA,-20.535222,-70.181275,155,-4,S
+Mountain Home Afb,"Mountain Home",United States,MUO,KMUO,43.043603,-115.872431,2996,-7,A
+Waterloo,"Waterloo",Canada,YKF,CYKF,43.460833,-80.378611,1054,-5,A
+Vaernes,"Trondheim",Norway,TRD,ENVA,63.457556,10.92425,56,1,E
+Gulkana,"Gulkana",United States,GKN,PAGK,62.154888,-145.456639,1580,-9,A
+Hana,"Hana",United States,HNM,PHHN,20.795636,-156.014439,78,-10,A
+Coffman Cove Seaplane Base,"Coffman Cove",United States,KCC,,56.014722,-132.833889,0,-9,A
+Wittman Regional Airport,"Oshkosh",United States,OSH,KOSH,44.024983,-88.551336,790,-5,A
+Fredericton,"Fredericton",Canada,YFC,CYFC,45.868889,-66.537222,68,-4,A
+Rocky Mountain Metropolitan Airport,"Broomfield-CO",United States,BJC,KBJC,39.90888888,-105.11722222,5670,-7,A
+Matsumoto,"Matsumoto",Japan,MMJ,RJAF,36.166758,137.922669,2182,9,U
+Lackland Afb Kelly Fld Annex,"San Antonio",United States,SKF,KSKF,29.384228,-98.581108,691,-6,A
+Wright Patterson Afb,"Dayton",United States,FFO,KFFO,39.826111,-84.048332,823,-5,A
+Tinker Afb,"Oklahoma City",United States,TIK,KTIK,35.414739,-97.386633,1291,-6,A
+Diosdado Macapagal International,"Angeles City",Philippines,CRK,RPLC,15.185833,120.560278,484,8,U
+Jeju Intl,"Cheju",South Korea,CJU,RKPC,33.511306,126.493028,118,9,U
+Lech Walesa,"Gdansk",Poland,GDN,EPGD,54.377569,18.466222,489,1,E
+Guillermo Leon Valencia,"Popayan",Colombia,PPN,SKPP,2.4544,-76.609319,5687,-5,U
+Rock Sound,"Rock Sound",Bahamas,RSD,MYER,24.8917,-76.177739,10,-5,U
+Cape Town Intl,"Cape Town",South Africa,CPT,FACT,-33.964806,18.601667,151,2,U
+Seymour Johnson Afb,"Goldsboro",United States,GSB,KGSB,35.339383,-77.960589,110,-5,A
+Holloman Afb,"Alamogordo",United States,HMN,KHMN,32.852519,-106.106525,4093,-7,A
+North Whale Seaplane Base,"North Whale Pass",United States,WWP,,56.116389,-133.121667,0,-9,A
+Vandenberg Afb,"Lompoc",United States,VBG,KVBG,34.737333,-120.584306,369,-8,A
+Kitoi Bay Seaplane Base,"Kitoi Bay",United States,KKB,,58.190833,-152.370556,0,-9,A
+Santa Monica Municipal Airport,"Santa Monica",United States,SMO,KSMO,34.0158333,-118.4513056,177,-7,A
+Provideniya Bay,"Provideniya Bay",Russia,PVS,UHMD,64.378139,-173.243306,71,12,N
+Port Protection Seaplane Base,"Port Protection",United States,PPV,,56.328889,-133.61,0,-9,A
+Hyder Seaplane Base,"Hyder",United States,WHD,,55.903333,-130.006667,0,-9,A
+Morristown Municipal Airport,"Morristown",United States,MMU,KMMU,40.79935,-74.4148747,187,-5,A
+Del Caribe Intl Gen Santiago Marino,"Porlamar",Venezuela,PMV,SVMG,10.912926,-63.967581,74,-4,U
+Yariguies,"Barrancabermeja",Colombia,EJA,SKEJ,7.024331,-73.8068,412,-5,U
+Tofino,"Tofino",Canada,YAZ,CYAZ,49.082222,-125.7725,80,-8,A
+Tatalina Lrrs,"Tatalina",United States,TLJ,PATL,62.894369,-155.976525,964,-9,A
+Selfridge Angb,"Mount Clemens",United States,MTC,KMTC,42.608333,-82.8355,580,-5,A
+Van Nuys,"Van Nuys",United States,VNY,KVNY,34.209811,-118.489972,802,-8,A
+Alitak Seaplane Base,"Lazy Bay",United States,ALZ,,56.899444,-154.247778,0,-9,A
+Opa Locka,"Miami",United States,OPF,KOPF,25.907,-80.278389,8,-5,A
+Waterbury-Oxford Airport,"Oxford",United States,OXC,KOXC,41.4785556,-73.13525,726,-4,A
+Robins Afb,"Macon",United States,WRB,KWRB,32.640144,-83.59185,294,-5,A
+Minchumina Airport,"Lake Minchumina",United States,MHM,PAMH,63.886111,-152.301944,678,-9,A
+McCarthy Airport,"McCarthy",United States,MXY,,61.4370608,-142.90307372,1531,-8,U
+Kagoshima,"Kagoshima",Japan,KOJ,RJFK,31.803397,130.719408,906,9,U
+EuroAirport Basel-Mulhouse-Freiburg,"Basel-Mulhouse-Freiburg",Switzerland,BSL,,47.59,7.529167,885,1,E
+Northway,"Northway",United States,ORT,PAOR,62.961334,-141.929136,1716,-9,A
+Andersen Afb,"Andersen",Guam,UAM,PGUA,13.583953,144.930025,627,10,U
+Koln Bonn,"Cologne",Germany,CGN,EDDK,50.865917,7.142744,302,1,E
+Boca Raton,"Boca Raton",United States,BCT,KBCT,26.3785,-80.107694,13,-5,A
+Key West Nas,"Key West",United States,NQX,KNQX,24.575834,-81.688889,6,-5,A
+Patuxent River Nas,"Patuxent River",United States,NHK,KNHK,38.285981,-76.411781,39,-5,A
+Seal Bay Seaplane Base,"Seal Bay",United States,SYB,,58.166667,-152.5,0,-9,A
+Fort Lauderdale Executive,"Fort Lauderdale",United States,FXE,KFXE,26.197281,-80.170706,13,-5,A
+Excursion Inlet Seaplane Base,"Excursion Inlet",United States,EXI,,58.420556,-135.449167,0,-9,A
+Farnborough,"Farnborough",United Kingdom,FAB,EGLF,51.275833,-0.776333,238,0,E
+Torrejon,"Madrid",Spain,TOJ,LETO,40.496747,-3.445872,2026,1,E
+Sydney,"Sydney",Canada,YQY,CYQY,46.161388,-60.047779,203,-4,A
+Sierra Vista Muni Libby Aaf,"Fort Huachuca",United States,FHU,KFHU,31.588472,-110.344389,4719,-7,A
+Vancouver Coal Harbour,"Vancouver",Canada,CXH,CAQ3,49.289722,-123.115833,0,-8,A
+Coleman A Young Muni,"Detroit",United States,DET,KDET,42.409195,-83.009861,626,-5,A
+Olga Bay Seaplane Base,"Olga Bay",United States,KOY,,57.161389,-154.229722,0,-9,A
+Sechelt Aerodrome,"Sechelt-Gibsons",Canada,YHS,,49.460556,-123.718611,250,-8,A
+Napa County Airport,"Napa",United States,APC,KAPC,38.2131944,-122.2806944,35,-7,A
+Edwards Afb,"Edwards Afb",United States,EDW,KEDW,34.905417,-117.883739,2302,-8,A
+Creech Afb,"Indian Springs",United States,INS,KINS,36.587183,-115.673353,3133,-8,A
+Healy River Airport,"Healy",United States,HKB,PAHV,63.8675,-148.968889,1263,-9,A
+Hydaburg Seaplane Base,"Hydaburg",United States,HYG,PAHY,55.206389,-132.828333,0,-9,A
+Manley Hot Springs Airport,"Manley Hot Springs",United States,MLY,PAML,64.9975,-150.644167,270,-9,A
+Naha,"Okinawa",Japan,OKA,ROAH,26.195814,127.645869,12,9,N
+Francis S Gabreski,"West Hampton Beach",United States,FOK,KFOK,40.843656,-72.631789,67,-5,A
+Homestead Arb,"Homestead",United States,HST,KHST,25.48855,-80.383567,6,-5,A
+Grissom Arb,"Peru",United States,GUS,KGUS,40.648094,-86.152119,812,-5,A
+Dekalb-Peachtree Airport,"Atlanta",United States,PDK,KPDK,33.8756111,-84.3019722,1003,-4,A
+Yelizovo,"Petropavlovsk",Russia,PKC,UHPP,53.167889,158.453669,131,12,N
+General Pedro Jose Mendez Intl,"Ciudad Victoria",Mexico,CVM,MMCV,23.703336,-98.956486,761,-6,S
+Moser Bay Seaplane Base,"Moser Bay",United States,KMY,,57.025556,-154.145833,0,-9,A
+Olympia Regional Airpor,"Olympia",United States,OLM,KOLM,46.9694044,-122.9025447,209,-7,A
+Funter Bay Seaplane Base,"Funter Bay",United States,FNR,PANR,58.254444,-134.897778,0,-9,A
+Whidbey Island Nas,"Whidbey Island",United States,NUW,KNUW,48.351803,-122.655906,47,-8,A
+Almirante Padilla,"Rio Hacha",Colombia,RCH,SKRH,11.526222,-72.925958,43,-5,U
+Addison,"Addison",United States,ADS,KADS,32.9685594,-96.8364478,644,-5,A
+Santiago,"Santiago",Spain,SCQ,LEST,42.896333,-8.415144,1213,1,E
+Amook Bay Seaplane Base,"Amook Bay",United States,AOS,,57.471389,-153.815278,0,-9,A
+Waimea Kohala,"Kamuela",United States,MUE,PHMU,20.001328,-155.668108,2671,-10,A
+Golden Airport,"Golden",Canada,YGE,CYGE,51.2992,-116.982,2575,-7,A
+Mc Clellan Afld,"Sacramento",United States,MCC,KMCC,38.667639,-121.400611,75,-8,A
+Menara,"Marrakech",Morocco,RAK,GMMX,31.606886,-8.0363,1545,0,N
+Schonefeld,"Berlin",Germany,SXF,EDDB,52.380001,13.5225,157,1,E
+Vnukovo,"Moscow",Russia,VKO,UUWW,55.591531,37.261486,685,4,N
+Port Hardy,"Port Hardy",Canada,YZT,CYZT,50.680556,-127.366667,71,-8,A
+Bryce Canyon,"Bryce Canyon",United States,BCE,KBCE,37.706444,-112.145806,7590,-7,A
+Baden Airpark,"Karlsruhe/Baden-Baden",Germany,FKB,EDSB,48.7793,8.08048,407,1,E
+Central Airport,"Central",United States,CEM,PACE,65.573889,-144.780833,937,-9,A
+Rosecrans Mem,"Rosecrans",United States,STJ,KSTJ,39.771944,-94.909706,826,-6,A
+West Point Village Seaplane Base,"West Point",United States,KWP,,57.77,-153.548889,0,-9,A
+Allen Aaf,"Delta Junction",United States,BIG,PABI,63.994547,-145.721642,1291,-9,A
+Klawock Airport,"Klawock",United States,KLW,PAKW,55.579167,-133.076111,80,-9,A
+Point Baker Seaplane Base,"Point Baker",United States,KPB,,56.351944,-133.6225,0,-9,A
+Ingeniero Juan Guillermo Villasana,"Pachuca",Mexico,PCA,MMPC,20.0772,-98.782814,7600,-6,S
+Kendall Tamiami Executive,"Kendall-tamiami",United States,TMB,KTMB,25.647889,-80.432777,8,-5,A
+Nanaimo,"Nanaimo",Canada,YCD,CYCD,49.052333,-123.870167,93,-8,A
+Buttonville Muni,"Toronto",Canada,YKZ,CYKZ,43.862221,-79.37,650,-5,A
+Windsor,"Windsor",Canada,YQG,CYQG,42.275556,-82.955556,622,-5,A
+Executive,"Orlando",United States,ORL,KORL,28.545464,-81.332936,113,-5,A
+London St Pancras,"London",United Kingdom,STP,,51.53,-0.125,0,0,E
+Moton Field Municipal Airport,"Tuskegee",United States,06A,,32.4605722,-85.6800278,264,-5,A
+Centennial,"Denver",United States,APA,KAPA,39.570129,-104.849294,5883,-7,A
+Morrisville Stowe State Airport,"Morrisville",United States,MVL,KMVL,44.535,-72.614,732,-5,A
+Inuvik Mike Zubko,"Inuvik",Canada,YEV,CYEV,68.304167,-133.482778,224,-7,A
+Henderson Executive Airport,"Henderson",United States,HSH,KHND,35.972778,-115.134444,1881,-8,A
+Blagnac,"Toulouse",France,TLS,LFBO,43.629075,1.363819,499,1,E
+Jacqueline Cochran Regional Airport,"Palm Springs",United States,TRM,KTRM,33.626666,-116.1596667,0,-7,A
+Sacramento Executive,"Sacramento",United States,SAC,KSAC,38.512524,-121.49347,24,-8,A
+Southwest Michigan Regional Airport,"Benton Harbor",United States,BEH,,42.1285833,-86.4285,643,-5,U
+Port Bailey Seaplane Base,"Port Bailey",United States,KPY,,57.93,-153.040556,0,-9,A
+Tatitlek Airport,"Tatitlek",United States,TEK,,60.8725,-146.691111,62,-9,A
+Mayo,"Mayo",Canada,YMA,CYMA,63.616389,-135.868333,1653,-8,A
+Old Crow,"Old Crow",Canada,YOC,CYOC,67.570556,-139.839167,824,-8,A
+Sharona,"Sharona",Afghanistan,AZ3,OASA,33.1277215,68.8369847,7400,4.5,N
+Livingood Airport,"Livingood",United States,LIV,,65.531111,-148.541111,696,-9,A
+Sugar Land Regional Airport,"Sugar Land",United States,SGR,KSGR,29.62225,-95.6565278,82,-6,A
+Tuktoyaktuk,"Tuktoyaktuk",Canada,YUB,CYUB,69.433334,-133.026389,15,-7,A
+Abbotsford,"Abbotsford",Canada,YXX,CYXX,49.025278,-122.360556,195,-8,A
+Linate,"Milan",Italy,LIN,LIML,45.445103,9.276739,353,1,E
+Bern Belp,"Bern",Switzerland,BRN,LSZB,46.9141,7.497153,1674,1,E
+Easton-Newnam Field Airport,"Easton",United States,ESN,KESN,38.8041667,-76.069,72,-5,A
+Sedona,"Sedona",United States,SDX,KSEZ,34.848628,-111.788472,4830,-7,A
+Lake Tahoe Airport,"South Lake Tahoe",United States,TVL,KTVL,38.893889,-119.995278,8544,-8,A
+Aleknagik Airport,"Aleknagik",United States,WKK,5A8,59.2826,-158.618,66,-9,A
+Eagle River,"Eagle River",United States,EGV,KEGV,45.932333,-89.268283,1642,-6,A
+Mundo Maya International,"Flores",Guatemala,FRS,MGTK,16.913819,-89.866383,427,-6,U
+Hartford Brainard,"Hartford",United States,HFD,KHFD,41.736722,-72.649444,18,-5,A
+Norwood Memorial Airport,"Norwood",United States,OWD,KOWD,42.1905278,-71.1729444,49,-4,A
+Seward Airport,"Seward",United States,SWD,,60.1269383,-149.4188122,22,-8,U
+Jefferson County Intl,"Port Townsend",United States,TWD,,48.0314,-122.4838,108,-8,A
+Muskoka,"Muskoka",Canada,YQA,CYQA,44.974722,-79.303333,925,-5,A
+Igor I Sikorsky Mem,"Stratford",United States,BDR,KBDR,41.163472,-73.126167,9,-5,A
+David Wayne Hooks Field,"Houston",United States,DWH,KDWH,30.063746,-95.554276,152,-6,A
+Groton New London,"Groton CT",United States,GON,KGON,41.330056,-72.045139,9,-5,A
+Kazan,"Kazan",Russia,KZN,UWKD,55.606186,49.278728,411,4,N
+Cuyahoga County,"Richmond Heights",United States,CGF,KCGF,41.565124,-81.4863555,879,-5,A
+Yinchuan,"Yinchuan",China,INC,ZLIC,38.481944,106.009167,3600,8,U
+Plymouth Municipal Airport,"Plymouth",United States,PYM,KPYM,41.9090278,-70.7287778,148,-4,A
+Vero Beach Muni,"Vero Beach",United States,VRB,KVRB,27.655556,-80.417944,24,-5,A
+Blakely Island Airport,"Blakely Island",United States,BYW,,48.56025,-122.80243,0,-8,A
+St Pierre,"St.-pierre",Saint Pierre and Miquelon,FSP,LFVP,46.762904,-56.173088,27,-4,U
+Fulton County Airport Brown Field,"Atlanta",United States,FTY,KFTY,33.7791,-84.5214,841,-5,A
+Genova Sestri,"Genoa",Italy,GOA,LIMJ,44.413333,8.8375,13,1,E
+Hannover,"Hannover",Germany,HAJ,EDDV,52.461056,9.685078,183,1,E
+Novy,"Khabarovsk",Russia,KHV,UHHH,48.528044,135.188361,244,11,N
+Marktoberdorf Schule,"Marktoberdorf",Germany,MOS,MARO,47.777,10.623,1200,2,E
+Northolt,"Northolt",United Kingdom,NHT,EGWU,51.553,-0.418167,124,0,E
+Garfield County Regional Airport,"Rifle",United States,RIL,KRIL,39.5263056,-107.7269444,5548,-6,A
+Stratton ANGB - Schenectady County Airpor,"Scotia NY",United States,SCH,KSCH,42.85245555,-73.928866666,378,-5,A
+Sparrevohn Lrrs,"Sparrevohn",United States,SVW,PASV,61.097369,-155.574228,1583,-9,A
+Treviso,"Treviso",Italy,TSF,LIPH,45.6484,12.194422,59,1,E
+Peterborough,"Peterborough",Canada,YPQ,CYPQ,44.23,-78.363333,628,-5,A
+Allegheny County Airport,"Pittsburgh",United States,AGC,KAGC,40.3544,-79.9302,1252,-5,A
+Bodrum - Milas,"Bodrum",Turkey,BJV,LTFE,37.82,28.204,19,2,E
+Bromma,"Stockholm",Sweden,BMA,ESSB,59.354372,17.94165,47,1,E
+Chatham Seaplane Base,"Sitka",United States,CYM,,57.515,-134.946111,0,-9,A
+Dalton Municipal Airport,"Dalton",United States,DNN,KDNN,34.7229444,-84.87025,709,-4,A
+Portland Hillsboro,"Hillsboro",United States,HIO,KHIO,45.540394,-122.949825,204,-8,A
+Innsbruck,"Innsbruck",Austria,INN,LOWI,47.260219,11.343964,1906,1,E
+Sale,"Rabat",Morocco,RBA,GMME,34.051467,-6.751519,276,0,N
+Santa Maria,"Santa Maria (island)",Portugal,SMA,LPAZ,36.97139,-25.170639,308,-1,E
+Le Palyvestre,"Hyeres",France,TLN,LFTH,43.0973,6.14603,7,1,E
+Comandante Gustavo Kraemer,"Bage",Brazil,BGX,SBBG,-31.390528,-54.112244,600,-3,S
+Neuenland,"Bremen",Germany,BRE,EDDW,53.0475,8.786667,14,1,E
+Dupage,"West Chicago",United States,DPA,KDPA,41.907778,-88.248611,758,-6,A
+Page Fld,"Fort Myers",United States,FMY,KFMY,26.586611,-81.86325,17,-5,A
+Humberside,"Humberside",United Kingdom,HUY,EGNJ,53.574444,-0.350833,121,0,E
+Port Williams Seaplane Base,"Port Williams",United States,KPR,,58.49,-152.582222,0,-9,A
+Pulkovo,"St. Petersburg",Russia,LED,ULLI,59.800292,30.262503,78,4,N
+Skavsta,"Stockholm",Sweden,NYO,ESKN,58.788636,16.912189,140,1,E
+Chicago Executive,"Chicago-Wheeling",United States,PWK,KPWK,42.1142897,-87.9015376,647,-6,A
+Spencer Muni,"Spencer",United States,SPW,KSPW,43.165527,-95.202805,1339,-6,A
+Lethbridge,"Lethbridge",Canada,YQL,CYQL,49.630278,-112.799722,3047,-7,A
+Almaty,"Alma-ata",Kazakhstan,ALA,UAAA,43.352072,77.040508,2234,6,U
+Naples Muni,"Naples",United States,APF,KAPF,26.152619,-81.775294,8,-5,A
+Ingolstadt BF,"Ingolstadt",Germany,IGS,INGS,48.7777,11.422,888,1,E
+Mikonos,"Mykonos",Greece,JMK,LGMK,37.435128,25.348103,405,2,E
+Montgomery Field,"San Diego",United States,MYF,NULL,32.4759,117.759,17,-8,A
+Marcos A Gelabert Intl,"Panama",Panama,PAC,MPMG,8.973339,-79.555583,31,-5,U
+Cormeilles En Vexin,"Pontoise",France,POX,LFPT,49.096647,2.040833,325,1,E
+Prince George,"Prince George",Canada,YXS,CYXS,53.889444,-122.678889,2267,-8,A
+City,"Belfast",United Kingdom,BHD,EGAC,54.618056,-5.8725,15,0,E
+Bilbao,"Bilbao",Spain,BIO,LEBB,43.301097,-2.910608,138,1,E
+Chisana Airport,"Chisana",United States,CZN,,62.071111,-142.048333,1011,-9,A
+Dalaman,"Dalaman",Turkey,DLM,LTBS,36.713056,28.7925,20,2,E
+Yolo County Airport,"Davis-Woodland-Winters",United States,DWA,KDWA,38.5793889,-121.8569444,100,-7,A
+Zhezkazgan Airport,"Zhezkazgan",Kazakhstan,DZN,UAKD,47.708333,67.733333,1250,6,U
+Montgomery County Airpark,"Gaithersburg",United States,GAI,KGAI,39.1006,-77.09576,0,-5,A
+Inverness,"Inverness",United Kingdom,INV,EGPE,57.5425,-4.0475,31,0,E
+Londonderry Eglinton,"Londonderry",United Kingdom,LDY,EGAE,55.042778,-7.161111,22,0,E
+Gwinnett County Airport-Briscoe Field,"Lawrenceville",United States,LZU,KLZU,33.9780761,-83.9623772,1061,-4,A
+Baracoa,"Magangue",Colombia,MGN,SKMG,9.284739,-74.846092,178,-5,U
+Florida Keys Marathon Airport,"Marathon",United States,MTH,KMTH,24.726111,-81.051389,7,-5,A
+Olbia Costa Smeralda,"Olbia",Italy,OLB,LIEO,40.898661,9.517628,37,1,E
+Port Augusta Airport,"Argyle",Australia,PUG,YPAG,-32.506944,137.716667,56,9.5,O
+Dallas Executive Airport,"Dallas",United States,RBD,KRBD,32.680833,-96.868333,201,-6,A
+Shively Field Airport,"SARATOGA",United States,SAA,KSAA,41.4448594,-106.8235264,7012,-6,A
+Southend,"Southend",United Kingdom,SEN,EGMC,51.571389,0.695556,49,0,E
+Talkeetna,"Talkeetna",United States,TKA,PATK,62.3205,-150.093694,358,-9,A
+Bermuda Dunes Airport,"Palm Springs",United States,UDD,KUDD,33.7484375,-116.2748133,73,-7,A
+Waukegan Rgnl,"Chicago",United States,UGN,KUGN,42.422161,-87.867908,727,-6,A
+St. Augustine Airport,"St. Augustine Airport",United States,UST,KSGJ,29.959167,-81.339722,10,-5,A
+Bella Bella Airport,"Bella Bella",Canada,ZEL,CYJQ,52.139722,-128.063611,162,-8,A
+Mandelieu,"Cannes",France,CEQ,LFMD,43.54205,6.953478,13,1,E
+Sussex Co,"Georgetown",United States,GED,KGED,38.689194,-75.358889,50,-5,A
+Lawrence Municipal Airport,"Lawrence",United States,LWM,KLWM,42.7171944,-71.1234167,148,-4,A
+Laage,"Laage",Germany,RLG,ETNL,53.918167,12.278333,138,1,E
+Waukesha County Airport,"Waukesha",United States,UES,,43.0410278,-88.2370556,911,-6,U
+Saint John,"St. John",Canada,YSJ,CYSJ,45.316111,-65.890278,357,-4,A
+Yellowknife,"Yellowknife",Canada,YZF,CYZF,62.462778,-114.440278,675,-7,A
+Al Ain International Airport,"Al Ain",United Arab Emirates,AAN,OMAL,24.261667,55.609167,869,4,U
+Adana,"Adana",Turkey,ADA,LTAF,36.982166,35.280388,65,2,E
+Marka Intl,"Amman",Jordan,ADJ,OJAM,31.972703,35.991569,2555,2,E
+Adelaide Intl,"Adelaide",Australia,ADL,YPAD,-34.945,138.530556,20,9.5,O
+Ciudad del Este,"Ciudad del Este",Paraguay,AGT,SGES,-25.4555,-54.843592,846,-4,S
+Cerro Moreno Intl,"Antofagasta",Chile,ANF,SCFA,-23.444478,-70.4451,455,-4,S
+Acadiana Rgnl,"Louisiana",United States,ARA,KARA,30.037758,-91.883896,24,-6,A
+Silvio Pettirossi Intl,"Asuncion",Paraguay,ASU,SGAS,-25.23985,-57.519133,292,-4,S
+Aviano Ab,"Aviano",Italy,AVB,LIPA,46.031889,12.596472,410,1,E
+Casale,"Brindisi",Italy,BDS,LIBR,40.657633,17.947033,47,1,E
+Beograd,"Beograd",Serbia,BEG,LYBE,44.818444,20.309139,335,1,E
+Senou,"Bamako",Mali,BKO,GABS,12.533544,-7.949944,1247,0,N
+General Jose Antonio Anzoategui Intl,"Barcelona",Venezuela,BLA,SVBC,10.107139,-64.689161,26,-4,U
+Mercer County Airport,"Bluefield",United States,BLF,BLF,37.2958,-81.2077,2857,-5,A
+Belaga Airport,"Belaga",Malaysia,BLG,WBGC,2.65,113.767,200,8,U
+Billund,"Billund",Denmark,BLL,EKBI,55.740322,9.151778,247,1,E
+Bologna,"Bologna",Italy,BLQ,LIPE,44.535444,11.288667,123,1,E
+Bangalore,"Bangalore",India,BLR,VOBL,12.949986,77.668206,2912,5.5,N
+Barquisimeto Intl,"Barquisimeto",Venezuela,BRM,SVBM,10.042747,-69.358619,2042,-4,U
+M R Stefanik,"Bratislava",Slovakia,BTS,LZIB,48.170167,17.212667,436,1,E
+KBWD,"Brownwood",United States,BWD,,31.7936111,-98.9565,1387,-6,A
+Arkansas Intl,"Blytheville",United States,BYH,KBYH,35.964347,-89.943956,254,-6,A
+Brize Norton,"Brize Norton",United Kingdom,BZZ,EGVN,51.749964,-1.583617,288,0,E
+Rochambeau,"Cayenne",French Guiana,CAY,SOCA,4.819808,-52.360447,26,-3,U
+Mactan Cebu Intl,"Cebu",Philippines,CEB,RPVM,10.307542,123.979439,31,8,U
+Bob Sikes,"Crestview",United States,CEW,KCEW,30.778833,-86.522111,213,-6,A
+Cabo Frio International Airport,"Cabo Frio",Brazil,CFB,SBCB,-22.921667,-42.074167,14,-3,S
+Soekarno Hatta Intl,"Jakarta",Indonesia,CGK,WIII,-6.125567,106.655897,34,7,U
+Shah Amanat Intl,"Chittagong",Bangladesh,CGP,VGEG,22.249611,91.813286,12,6,U
+Deols,"Chateauroux",France,CHR,LFLX,46.862194,1.730667,529,1,E
+Canouan,"Canouan Island",Saint Vincent and the Grenadines,CIW,TVSC,12.699042,-61.342431,11,-4,U
+Abraham Gonzalez Intl,"Ciudad Juarez",Mexico,CJS,MMCS,31.636133,-106.428667,3904,-6,S
+Cunnamulla Airport,"",Australia,CMA,YCMU,-28.03,145.622,630,10,O
+St. Louis Downtown Airport,"East St. Louis",United States,CPS,,38.5707244,-90.1562211,413,-6,U
+Cannon Afb,"Clovis",United States,CVS,KCVS,34.382775,-103.322147,4295,-7,A
+Afonso Pena,"Curitiba",Brazil,CWB,SBCT,-25.528475,-49.175775,2988,-3,S
+Zia Intl,"Dhaka",Bangladesh,DAC,VGZR,23.843333,90.397781,30,6,U
+Danang Intl,"Danang",Vietnam,DAD,VVDN,16.043917,108.19937,33,7,U
+Mwalimu Julius K Nyerere Intl,"Dar Es Salaam",Tanzania,DAR,HTDA,-6.878111,39.202625,182,3,U
+King Abdulaziz Ab,"Dhahran",Saudi Arabia,DHA,OEDR,26.265417,50.152027,84,3,U
+Douala,"Douala",Cameroon,DLA,FKKD,4.006081,9.719481,33,1,N
+Zhoushuizi,"Dalian",China,DLC,ZYTL,38.965667,121.5386,107,8,U
+Don Muang Intl,"Bangkok",Thailand,DMK,VTBD,13.912583,100.60675,9,7,U
+King Fahd Intl,"Dammam",Saudi Arabia,DMM,OEDF,26.471161,49.79789,72,3,U
+Kadena Ab,"Kadena",Japan,DNA,RODN,26.355612,127.767633,143,9,U
+Douglas Municipal Airport,"Douglas",United States,DQH,KDQH,31.4767385,-82.8605664,257,-5,A
+Derby Airport,"Derby",Australia,DRB,YDBY,-17.39,123.68,26,8,U
+Darwin Intl,"Darwin",Australia,DRW,YPDN,-12.4083333,130.87266,103,9.5,N
+Robin Hood Doncaster Sheffield Airport,"Doncaster, Sheffield",United Kingdom,DSA,EGCN,53.474722,-1.004444,55,0,E
+Durban Intl,"Durban",South Africa,DUR,FADN,-29.970089,30.950519,33,2,U
+Entebbe Intl,"Entebbe",Uganda,EBB,HUEN,0.042386,32.443503,3782,3,U
+Roumaniere,"Bergerac",France,EGC,LFBE,44.825279,0.518611,171,1,E
+Kenosha Regional Airport,"Kenosha",United States,ENW,,42.5956944,-87.9278056,742,-6,U
+Esenboga,"Ankara",Turkey,ESB,LTAC,40.128082,32.995083,3125,2,E
+Evenes,"Harstad/Narvik",Norway,EVE,ENEV,68.4913,16.678108,84,1,E
+Findlay Airport,"Findley",United States,FDY,KFDY,41.0120278,-83.6686111,819,-5,U
+Kisangani Simisini,"Kisangani",Congo (Kinshasa),FKI,FZIA,0.5175,25.155014,1289,2,U
+Firenze,"Firenze",Italy,FLR,LIRQ,43.809953,11.2051,142,1,E
+Manas,"Bishkek",Kyrgyzstan,FRU,UAFM,43.061306,74.477556,2058,5,U
+Mariana Grajales,"Guantanamo",Cuba,GAO,MUGT,20.085419,-75.158328,56,-5,U
+Gao,"Gao",Mali,GAQ,GAGO,16.248433,-0.005456,870,0,N
+JAGS McCartney International Airport,"Cockburn Town",Turks and Caicos Islands,GDT,MBGT,21.4445,-71.1423,13,-5,U
+Sokol,"Magadan",Russia,GDX,UHMM,59.910989,150.720439,574,12,N
+Gimpo,"Seoul",South Korea,GMP,RKSS,37.558311,126.790586,58,9,U
+Grosseto,"Grosseto",Italy,GRS,LIRS,42.759747,11.071897,15,1,E
+Graz,"Graz",Austria,GRZ,LOWG,46.991067,15.439628,1115,1,E
+Wheeler Sack Aaf,"Fort Drum",United States,GTB,KGTB,44.055619,-75.719458,690,-5,A
+Gallup Muni,"Gallup",United States,GUP,KGUP,35.511058,-108.789308,6472,-7,A
+Haeju Airport,"Haeju",North Korea,HAE,,38.00543,125.77863,131,9,U
+Noibai Intl,"Hanoi",Vietnam,HAN,VVNB,21.221192,105.807178,39,7,U
+Xiaoshan,"Hangzhou",China,HGH,ZSHC,30.229503,120.434453,23,8,U
+Lake Havasu City Airport,"Lake Havasu City",United States,HII,KHII,34.5711111,-114.3582778,783,-7,N
+Mc Connell Afb,"Wichita",United States,IAB,KIAB,37.621853,-97.268192,1371,-6,A
+Wilmington Airborne Airpark,"Wilmington",United States,ILN,KILN,39.42792,-83.792118,1077,-5,U
+Al Udeid AB,"Doha",Qatar,IUD,OTBH,25.1174,51.3228,130,3,N
+Jefferson City Memorial Airport,"Jefferson City",United States,JEF,KJEF,38.5912,-92.1561,549,-6,A
+Jersey,"Jersey",Jersey,JER,EGJJ,49.207947,-2.195508,277,0,E
+Grand Canyon Heliport,"Grand Canyon",United States,JGC,,35.96666666,-112.13333333,2500,-8,A
+Ambouli International Airport,"Djibouti",Djibouti,JIB,HDAM,11.5472,43.1594,49,3,U
+Kabul Intl,"Kabul",Afghanistan,KBL,OAKB,34.565853,69.212328,5877,5,U
+Kandahar,"Kandahar",Afghanistan,KDH,OAKN,31.505756,65.847822,3337,5,U
+Kaohsiung Intl,"Kaohsiung",Taiwan,KHH,RCKH,22.577094,120.350006,31,8,U
+Kirkuk AB,"Kirkuk",Iraq,KIK,ORKK,35.17,44.3483,1061,3,N
+Kosice,"Kosice",Slovakia,KSC,LZKZ,48.663055,21.241112,755,1,E
+Tinson Pen,"Kingston",Jamaica,KTP,MKTP,17.988558,-76.823761,16,-5,U
+Kunsan Air Base,"Kunsan",South Korea,KUV,RKJK,35.903756,126.615906,29,9,U
+Zachar Bay Seaplane Base,"Zachar Bay",United States,KZB,,57.55,-153.75,0,-9,A
+Lakeland Linder Regional Airport,"Lakeland",United States,LAL,KLAL,27.9889167,-82.0185556,142,-4,A
+Leon M Ba,"Libreville",Gabon,LBV,FOOL,0.4586,9.412283,39,1,N
+Larnaca,"Larnaca",Cyprus,LCA,LCLK,34.875117,33.62485,8,2,U
+Goloson Intl,"La Ceiba",Honduras,LCE,MHLC,15.742481,-86.853036,49,-6,U
+A Coruna,"La Coruna",Spain,LCG,LECO,43.302061,-8.377256,326,1,E
+Octeville,"Le Havre",France,LEH,LFOH,49.533889,0.088056,312,1,E
+LaGrange-Callaway Airport,"LaGrange",United States,LGC,KLGC,33.0088611,-85.0726111,694,-4,A
+Liege,"Liege",Belgium,LGG,EBLG,50.637417,5.443222,659,1,E
+Valle Del Fuerte Intl,"Los Mochis",Mexico,LMM,MMLM,25.685194,-109.080806,16,-7,S
+Gran Canaria,"Gran Canaria",Spain,LPA,GCLP,27.931886,-15.386586,78,0,E
+Josefa Camejo,"Paraguana",Venezuela,LSP,SVJC,11.780775,-70.151497,75,-4,U
+Luke Afb,"Phoenix",United States,LUF,KLUF,33.535,-112.38306,1085,-7,A
+Mission Field Airport,"Livingston-Montana",United States,LVM,KLVM,45.6993889,-110.4483056,4660,-7,A
+McKinley National Park Airport,"McKinley Park",United States,MCL,PAIN,63.732757,-148.91129,1720,-8,A
+El Jaguel / Punta del Este Airport,"Maldonado",Uruguay,MDO,SUPE,-34.917,-54.917,66,-4,S
+El Plumerillo,"Mendoza",Argentina,MDZ,SAME,-32.831717,-68.792856,2310,-3,N
+Castle,"Merced",United States,MER,KMER,37.380481,-120.568189,189,-8,A
+Dobbins Arb,"Marietta",United States,MGE,KMGE,33.915382,-84.516319,1068,-5,A
+Regional De Maringa Silvio Name Junior,"Maringa",Brazil,MGF,SBMG,-23.476392,-52.016406,1788,-3,S
+Sacramento Mather,"Sacramento",United States,MHR,KMHR,38.553897,-121.297592,96,-8,A
+Mildenhall,"Mildenhall",United Kingdom,MHZ,EGUN,52.361933,0.486406,33,0,E
+Minot Afb,"Minot",United States,MIB,KMIB,48.415572,-101.357661,1668,-6,A
+Luqa,"Malta",Malta,MLA,LMML,35.857497,14.4775,300,1,E
+Bale Mulhouse,"Mulhouse",France,MLH,LFSB,47.589583,7.529914,885,1,E
+Menominee Marinette Twin Co,"Macon",United States,MNM,KMNM,45.12665,-87.638443,625,-5,A
+MOW,"Moscow",Russia,MOW,,55.7557,37.6176,0,4,N
+Mediterranee,"Montpellier",France,MPL,LFMT,43.576194,3.963014,17,1,E
+Edward F Knapp State,"Montpelier",United States,MPV,KMPV,44.203503,-72.562328,1165,-5,A
+Eastern WV Regional Airport,"Martinsburg",United States,MRB,KMRB,39.2407,-77.591,554,-5,A
+Foothills Regional Airport,"Morganton",United States,MRN,KMRN,35.8202336,-81.6115119,1270,-4,A
+Manston,"Manston",United Kingdom,MSE,EGMH,51.342222,1.346111,178,0,E
+Maastricht,"Maastricht",Netherlands,MST,EHBK,50.911658,5.770144,375,1,E
+Escuela Mariscal Sucre Airport,"Maracay",Venezuela,MYC,SVBS,10.249978,-67.649419,1338,-4,U
+Mazar I Sharif,"Mazar-i-sharif",Afghanistan,MZR,OAMS,36.706914,67.209678,1284,5,U
+Chenega Bay Airport,"Chenega",United States,NCN,PFCB,60.077222,-147.991944,72,-9,A
+Kaneohe Bay Mcaf,"Kaneohe Bay",United States,NGF,PHNG,21.450453,-157.768,24,-10,A
+Nouakchott,"Nouakschott",Mauritania,NKC,GQNN,18.097856,-15.947956,7,0,N
+Lukou,"Nanjing",China,NKG,ZSNJ,31.742042,118.862025,49,8,U
+Miramar Mcas,"Miramar",United States,NKX,KNKX,32.867694,-117.14175,478,-8,A
+Millington Rgnl Jetport,"Millington",United States,NQA,KNQA,35.356667,-89.870278,320,-6,A
+Sigonella,"Sigonella",Italy,NSY,LICZ,37.401664,14.922358,79,1,E
+Nantes Atlantique,"Nantes",France,NTE,LFRS,47.153189,-1.610725,90,1,E
+Nurnberg,"Nuernberg",Germany,NUE,EDDN,49.4987,11.066897,1046,1,E
+Moffett Federal Afld,"Mountain View",United States,NUQ,KNUQ,37.416142,-122.049139,32,-8,A
+Ministro Victor Konder Intl,"Navegantes",Brazil,NVT,SBNF,-26.879999,-48.65139,18,-3,S
+Cecil Field,"Jacksonville",United States,NZC,KVQQ,30.2187,-81.8767,81,-5,A
+Yokota Ab,"Yokota",Japan,OKO,RJTY,35.748492,139.348483,463,9,U
+Nogales Intl,"Nogales",United States,OLS,KOLS,31.417722,-110.84789,3955,-7,A
+Orebro,"Orebro",Sweden,ORB,ESOE,59.223733,15.037956,188,1,E
+Es Senia,"Oran",Algeria,ORN,DAOO,35.623858,-0.621183,295,1,N
+Oscoda Wurtsmith,"Oscoda",United States,OSC,KOSC,44.451558,-83.394053,634,-5,A
+Oostende,"Ostend",Belgium,OST,EBOS,51.198889,2.862222,13,1,E
+Henri Coanda,"Bucharest",Romania,OTP,LROP,44.572161,26.102178,314,2,E
+Ouagadougou,"Ouagadougou",Burkina Faso,OUA,DFFD,12.353194,-1.512417,1037,0,N
+Johan A Pengel Intl,"Zandery",Suriname,PBM,SMJP,5.452831,-55.187783,59,-3,U
+St Clair Co Intl,"Port Huron",United States,PHN,KPHN,42.910957,-82.528862,650,-5,A
+Pisco Intl,"Pisco",Peru,PIO,SPSO,-13.744864,-76.220284,39,-5,U
+Northeast Philadelphia,"Philadelphia",United States,PNE,KPNE,40.081944,-75.010586,121,-5,A
+Pointe Noire,"Pointe-noire",Congo (Brazzaville),PNR,FCPP,-4.816028,11.886597,55,1,N
+Salgado Filho,"Porto Alegre",Brazil,POA,SBPA,-29.994428,-51.171428,11,-3,S
+Paya Lebar,"Paya Lebar",Singapore,QPG,WSAP,1.360417,103.90953,65,8,U
+Borba Airport,"Borba",Brazil,RBB,SWBR,-4.387778,-59.593889,500,-4,S
+Rio Grande,"Rio Grande",Argentina,RGA,SAWE,-53.777667,-67.749389,65,-3,N
+Richard B Russell Airport,"Rome",United States,RMG,KRMG,34.3507778,-85.1586667,664,-4,A
+Ramstein Ab,"Ramstein",Germany,RMS,ETAR,49.436911,7.600283,776,1,E
+Rosario,"Rosario",Argentina,ROS,SAAR,-32.903611,-60.785,85,-3,N
+Rostov Na Donu,"Rostov",Russia,ROV,URRR,47.258208,39.818089,280,4,N
+Rocky Mount Wilson Regional Airport,"Rocky Mount",United States,RWI,KRWI,35.8563,-77.8919,159,-5,A
+Sabiha Gokcen,"Istanbul",Turkey,SAW,LTFJ,40.898553,29.309219,312,2,E
+Emanuel Co,"Santa Barbara",United States,SBO,KSBO,32.609139,-82.369944,327,-5,A
+Sondre Stromfjord,"Sondrestrom",Greenland,SFJ,BGSF,67.016969,-50.689325,165,-3,E
+Springfield-Beckly Municipal Airport,"Springfield",United States,SGH,KSGH,39.8402778,-83.8401667,1051,-5,A
+Hongqiao Intl,"Shanghai",China,SHA,ZSSS,31.197875,121.336319,10,8,U
+Sharjah Intl,"Sharjah",United Arab Emirates,SHJ,OMSJ,25.328575,55.51715,111,4,U
+Sarajevo,"Sarajevo",Bosnia and Herzegovina,SJJ,LQSA,43.824583,18.331467,1708,1,E
+Professor Urbano Ernesto Stumpf,"Sao Jose Dos Campos",Brazil,SJK,SBSJ,-23.228172,-45.862739,2120,-3,S
+Griffing Sandusky,"Sandusky",United States,SKY,KSKY,41.433361,-82.652333,580,-5,A
+Salta,"Salta",Argentina,SLA,SASA,-24.855978,-65.486169,4088,-3,N
+McNary Field,"Salem",United States,SLE,KSLE,44.9095,-123.003,214,-7,A
+Sofia,"Sofia",Bulgaria,SOF,LBSF,42.695194,23.406167,1742,2,E
+Spangdahlem Ab,"Spangdahlem",Germany,SPM,ETAD,49.972667,6.6925,1197,1,E
+Malabo,"Malabo",Equatorial Guinea,SSG,FGSL,3.755267,8.708717,76,1,N
+E T Joshua,"Kingstown",Saint Vincent and the Grenadines,SVD,TVSV,13.144306,-61.210861,66,-4,U
+Sola,"Stavanger",Norway,SVG,ENZV,58.876778,5.637856,29,1,E
+Sevilla,"Sevilla",Spain,SVQ,LEZL,37.418,-5.893106,111,1,E
+Soldotna Airport,"Soldotna",United States,SXQ,,60.4749583,-151.0382389,113,-8,U
+Salzburg,"Salzburg",Austria,SZG,LOWS,47.793304,13.004333,1411,1,E
+Whiteman Afb,"Knobnoster",United States,SZL,KSZL,38.730306,-93.547864,870,-6,A
+Schwerin Parchim,"Parchim",Germany,SZW,EDOP,53.426997,11.783436,166,1,E
+Baoan Intl,"Shenzhen",China,SZX,ZGSZ,22.639258,113.810664,13,8,U
+Liuting,"Qingdao",China,TAO,ZSQD,36.266108,120.374436,33,8,U
+Grottaglie,"Grottaglie",Italy,TAR,LIBG,40.517514,17.403212,215,1,E
+Tbilisi,"Tbilisi",Georgia,TBS,UGTB,41.669167,44.954722,1624,4,E
+La Florida,"Tumaco",Colombia,TCO,SKCO,1.814417,-78.749228,8,-5,U
+Thule Air Base,"Thule",Greenland,THU,BGTL,76.531203,-68.703161,251,-4,E
+Tallinn,"Tallinn-ulemiste International",Estonia,TLL,EETN,59.413317,24.832844,131,2,E
+Torino,"Torino",Italy,TRN,LIMF,45.200761,7.649631,989,1,E
+Astana Intl,"Tselinograd",Kazakhstan,TSE,UACC,51.022222,71.466944,1165,6,U
+Binhai,"Tianjin",China,TSN,ZBTJ,39.124353,117.346183,10,8,U
+Thumrait,"Thumrait",Oman,TTH,OOTH,17.666,54.024612,1570,4,U
+Teniente Benjamin Matienzo,"Tucuman",Argentina,TUC,SANT,-26.840861,-65.104944,1495,-3,N
+Adana-Incirlik Airbase,"Adana",Turkey,UAB,KUAB,37.00028,35.41833,500,2,E
+Ulyanovsk East Airport,"Ulyanovsk",Russia,ULY,UWLW,54.401,48.8027,252,4,N
+U Taphao Intl,"Pattaya",Thailand,UTP,VTBU,12.679944,101.005028,42,7,U
+Mukhino,"Ulan-ude",Russia,UUD,UIUU,51.807764,107.437644,1690,9,N
+Ugnu-Kuparuk Airport,"Kuparuk",United States,UUK,PAKU,70.330833,-149.5975,67,-9,A
+Khomutovo,"Yuzhno-sakhalinsk",Russia,UUS,UHSS,46.888672,142.717531,59,11,N
+Garner Field,"Uvalde",United States,UVA,KUVA,29.215429,-99.748962,942,-6,A
+Moody Afb,"Valdosta",United States,VAD,KVAD,30.967833,-83.193,233,-5,A
+Viracopos,"Campinas",Brazil,VCP,SBKP,-23.0075,-47.134444,2170,-3,S
+Vitoria,"Vitoria",Spain,VIT,LEVT,42.882836,-2.724469,1682,1,E
+Goiabeiras,"Vitoria",Brazil,VIX,SBVT,-20.258056,-40.286389,11,-3,S
+Arturo Michelena Intl,"Valencia",Venezuela,VLN,SVVA,10.149733,-67.9284,1417,-4,U
+Cambridge Bay,"Cambridge Bay",Canada,YCB,CYCB,69.108055,-105.138333,90,-7,A
+Miramichi,"Chatham",Canada,YCH,CYCH,47.007778,-65.449167,108,-4,A
+Charlo,"Charlo",Canada,YCL,CYCL,47.990833,-66.330278,132,-4,A
+Iqaluit,"Iqaluit",Canada,YFB,CYFB,63.75639,-68.555832,110,-5,A
+Fort Mcmurray,"Fort Mcmurray",Canada,YMM,CYMM,56.653333,-111.221944,1211,-7,A
+Montreal Intl Mirabel,"Montreal",Canada,YMX,CYMX,45.681944,-74.005278,270,-5,A
+Laishan,"Yantai",China,YNT,ZSYT,37.401667,121.371667,59,8,U
+Sherbrooke,"Sherbrooke",Canada,YSC,CYSC,45.438611,-71.691389,792,-5,A
+Penticton,"Penticton",Canada,YYF,CYYF,49.463056,-119.602222,1129,-8,A
+Zaragoza Ab,"Zaragoza",Spain,ZAZ,LEZG,41.666242,-1.041553,863,1,E
+Jan Mayensfield,"Jan Mayen",Norway,ZXB,ENJA,70.961111,-8.575833,33,1,E
